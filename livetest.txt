@@ -4803,40 +4803,7 @@ momo综合,http://127.0.0.1:8081/myvideoapp.php?id=04
 民视影剧台,http://127.0.0.1:8081/minshi.php?id=litv-ftv09
 好消息电视1,https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch1-2.m3u8
 好消息电视2,https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch2-2.m3u8
-中华电信直播,#genre#
-民視新聞台,http://127.0.0.1:8081/zhonghuadianxin.php?id=litv-ftv13
-寰宇新聞台,http://127.0.0.1:8081/zhonghuadianxin.php?id=litv-longturn14
-華視新聞資訊台,http://127.0.0.1:8081/zhonghuadianxin.php?id=4gtv-4gtv052
-空中英語教室,http://127.0.0.1:8081/zhonghuadianxin.php?id=4gtv-4gtv012
-民視旅遊台,http://127.0.0.1:8081/zhonghuadianxin.php?id=litv-ftv07
-i-Fun動漫台,http://127.0.0.1:8081/zhonghuadianxin.php?id=litv-ftv15
-幸福空間居家台,http://127.0.0.1:8081/zhonghuadianxin.php?id=4gtv-live206
-愛爾達娛樂台,http://127.0.0.1:8081/zhonghuadianxin.php?id=4gtv-4gtv070
-幸福空間居家台,http://127.0.0.1:8081/zhonghuadianxin.php?id=4gtv-live206
-亞洲旅遊台,http://127.0.0.1:8081/zhonghuadianxin.php?id=litv-longturn17
-中視新聞台,http://127.0.0.1:8081/zhonghuadianxin.php?id=4gtv-4gtv074
-影迷數位電影台,http://127.0.0.1:8081/zhonghuadianxin.php?id=4gtv-4gtv011
-中視新聞台,http://127.0.0.1:8081/zhonghuadianxin.php?id=4gtv-4gtv074
-靖天日本台,http://127.0.0.1:8081/zhonghuadianxin.php?id=4gtv-4gtv047
-中視新聞台,http://127.0.0.1:8081/zhonghuadianxin.php?id=4gtv-4gtv074",
-龍華日韓台,http://127.0.0.1:8081/zhonghuadianxin.php?id=litv-longturn11
-中視新聞台,http://127.0.0.1:8081/zhonghuadianxin.php?id=4gtv-4gtv074
-龍華偶像台,http://127.0.0.1:8081/zhonghuadianxin.php?id=litv-longturn12
-中視新聞台,http://127.0.0.1:8081/zhonghuadianxin.php?id=4gtv-4gtv074
-公視戲劇,http://127.0.0.1:8081/zhonghuadianxin.php?id=4gtv-4gtv042
-CI 罪案偵查頻道,http://127.0.0.1:8081/zhonghuadianxin.php?id=4gtv-4gtv027
-CNEX紀實頻道,http://127.0.0.1:8081/zhonghuadianxin.php?id=4gtv-4gtv013
-民視綜藝台,http://127.0.0.1:8081/zhonghuadianxin.php?id=4gtv-4gtv004
-ELTV英語學習台,http://127.0.0.1:8081/zhonghuadianxin.php?id=litv-longturn20
-民視第一台,http://127.0.0.1:8081/zhonghuadianxin.php?id=4gtv-4gtv003
-大愛電視台,http://127.0.0.1:8081/zhonghuadianxin.php?id=4gtv-4gtv007
-SMART 知識頻道,http://127.0.0.1:8081/zhonghuadianxin.php?id=4gtv-4gtv076
-CNBC,http://127.0.0.1:8081/zhonghuadianxin.php?id=4gtv-4gtv030
-SMART 知識頻道,http://127.0.0.1:8081/zhonghuadianxin.php?id=4gtv-4gtv076
-半島電視台,http://127.0.0.1:8081/zhonghuadianxin.php?id=litv-ftv10
-美国之音,http://127.0.0.1:8081/zhonghuadianxin.php?id=litv-ftv03
-爱自然,http://127.0.0.1:8081/zhonghuadianxin.php?id=4gtv-live208
-历史频道,http://127.0.0.1:8081/zhonghuadianxin.php?id=4gtv-live026
+
 4gtv,#genre#
 民視第一台,http://127.0.0.1:8081/4gtv720.php?id=1
 民視台灣台,http://127.0.0.1:8081/4gtv720.php?id=2

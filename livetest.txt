@@ -5221,7 +5221,9 @@ cctv14,http://127.0.0.1:8081/huawen.php?id=cctv14
 浙江卫视,http://127.0.0.1:8081/huawen.php?id=zhejiangweishi
 东方卫视,http://127.0.0.1:8081/huawen.php?id=dongfangweishi
 地方,#genre#
-浦东电视台,https://pdtvlive.pudongtv.cn/live/pdtv.m3u8?txSecret=fef7e589d63b60ec0acb750f654b9b52&txTime=6590FDD0
+浦东电视台,https://pdtvlive.pudongtv.cn/live/pdtv.m3u8?txSecret=99368ed29876877386e7dbcf28e43d34&txTime=677384DB
+
+
 上海教育,http://127.0.0.1:8081/shanghaijiaoyu.php?id=setv
 shanghai eye,http://127.0.0.1:8081/shanghaieye.php
 

@@ -5498,6 +5498,9 @@ http://127.0.0.1:8081/shanghaijiaoyu.php?id=setv
 #EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="" group-title="地方",shanghai eye
 http://127.0.0.1:8081/shanghaieye.php
 
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="" group-title="地方",浦东电视台
+https://pdtvlive.pudongtv.cn/live/pdtv.m3u8?txSecret=99368ed29876877386e7dbcf28e43d34&txTime=677384DB
+
 
 
 

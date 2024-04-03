@@ -99,7 +99,7 @@
 
 
            {
-			"key": "haiwaikan",
+			"key": "haiwaikan1",
 			"name": "海外看1",
 			"type": 1,
 			"api": "http://127.0.0.1:10079/p/0/null/https://haiwaikan.com/api.php/provide/vod",

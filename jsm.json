@@ -783,7 +783,7 @@
 			"searchable": 0,
 			"changeable": 0,
 			"ext": "https://fm.t4tv.hz.cz/json/market.json"
-		}],
+		},
 		
 			{
 				"group":"redirect",
@@ -792,9 +792,9 @@
 						"name":"redirect",
 						"urls":[
 							"proxy://do=live&type=live&proxy=&url="
-						]
+						        ]
 					}
-				]
+				         ]
 			}
 		],
 		"doh": [

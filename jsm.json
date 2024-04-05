@@ -47,7 +47,6 @@
 
   ],
 
-
 	"sites":[
 
 {
@@ -142,7 +141,6 @@
 			]
 		},
 
-
  {
     "key":"Czsapp",
     "name":"📔厂长之家",
@@ -165,10 +163,6 @@
         "spider": "./custom_spider.jar ",
        "ext":"https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/ikanbot2.js"
      },
-
-
-
-		
 
 
 		{ "key":"csp_YingShi","name":"影视|海外","type":3,"api":"csp_YingShi","ext":""},
@@ -198,11 +192,51 @@
 			"api": "csp_XPathMacFilter",
 			"searchable": 1,
 			"changeable": 0,
-                                              "spider": "./custom_spider.jar ",
 			"ext": "./lib/duboku.json$$$"
-
 		},
-		
+		{
+			"key": "haiwaikan",
+			"name": "海外看",
+			"type": 1,
+			"api": "http://127.0.0.1:10079/p/0/null/https://haiwaikan.com/api.php/provide/vod",
+			"playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=&url=",
+			"searchable": 1,
+			"changeable": 1,
+			"categories": [
+				"日本动漫",
+				"国产动漫",
+				"欧美动漫",
+				"国产剧",
+				"韩剧",
+				"日剧",
+				"台剧",
+				"泰剧",
+				"港剧",
+				"欧美剧",
+				"动画电影",
+				"韩国综艺",
+				"国产综艺",
+				"日本综艺",
+				"欧美综艺",
+				"冒险片",
+				"剧情片",
+				"动作片",
+				"同性片",
+				"喜剧片",
+				"奇幻片",
+				"恐怖片",
+				"悬疑片",
+				"惊悚片",
+				"战争片",
+				"歌舞片",
+				"灾难片",
+				"爱情片",
+				"犯罪片",
+				"科幻片",
+				"纪录片",
+				"经典片"
+			]
+		},
 		{
 			"key": "暴風",
 			"name": "暴風",
@@ -322,7 +356,9 @@
 			"changeable": 1,
 			"ext":"https://www.duanjutv.icu"
 		},
-{
+
+
+		{
 			"key": "豆瓣",
 			"name": "豆瓣",
 			"type": 3,
@@ -332,9 +368,6 @@
 			"indexs":1,
 			"ext": "./lib/douban.json"
 		},
-
-
-
 		{
 			"key": "网盘配置",
 			"name": "网盘及彈幕配置",
@@ -382,7 +415,14 @@
 			}
 		},
 		{"key":"SambaShare","name":"Samba分享","type":3,"api":"csp_SambaShare","searchable":0,"quickSearch":0, "changeable":0, "filterable":0, "timeout":60, "ext":"./lib/tokenm.json$$$./lib/sambashare.txt"},
-		
+		{
+			"key": "直播转点播",
+			"name": "🐼️┃电视┃直播",
+			"type": 3,
+			"searchable": 0,
+			"api": "./lib/live2vod.js",
+			"ext": "./lib/feimaolive.json"
+		},
 		{
 			"key": "FirstAid",
 			"name": "🚑 急救知识 ",
@@ -774,20 +814,10 @@
 			"searchable": 0,
 			"changeable": 0,
 			"ext": "https://fm.t4tv.hz.cz/json/market.json"
-		},
+		}],
 		
-			{
-				"group":"redirect",
-				"channels":[
-					{
-						"name":"redirect",
-						"urls":[
-							"proxy://do=live&type=live&proxy=&url="
-						        ]
-					}
-				         ]
-			}
-		],
+			
+		
 		"doh": [
 			{
 				"name": "Google",
@@ -949,12 +979,5 @@
 		],
 		"flags":["youku","qq","iqiyi","qiyi","letv","sohu","tudou","pptv","mgtv","wasu"],
 		"wallpaper": "http://饭太硬.top/深色壁纸/api.php",
-		"disabled_wallpaper":"http://www.kf666888.cn/api/tvbox/img",
-
-"ads": [
-    "static-mozai.4gtv.tv",
-    "s3t3d2y8.afcdn.net",
-  "4gtvfreepcvod-cds.cdn.hinet.net"
-  ]
+		"disabled_wallpaper":"http://www.kf666888.cn/api/tvbox/img"
 }
-  

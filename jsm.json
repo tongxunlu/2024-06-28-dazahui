@@ -206,6 +206,7 @@
 			"api": "csp_XPathMacFilter",
 			"searchable": 1,
 			"changeable": 0,
+			"playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=&url=",
 			"ext": "./lib/duboku.json$$$"
 		},
 		{

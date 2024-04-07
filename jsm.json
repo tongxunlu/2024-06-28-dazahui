@@ -99,7 +99,8 @@
    "api": "csp_XPathMacFilter",
    "searchable": 1,
    "changeable": 0,
-"spider": "./custom_spider.jar ",
+"spider": "https://raw.githubusercontent.com/zzq12345/CatVodSpider/main/jar/custom_spider.jar",
+
    "ext": "./lib/duboku.json$$$socks5://127.0.0.1:10071"
   },
 {

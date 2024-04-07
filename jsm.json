@@ -92,17 +92,7 @@
       ]
     },
 
-{
-   "key": "獨播",
-   "name": "獨播 | 海外",
-   "type": 3,
-   "api": "csp_XPathMacFilter",
-   "searchable": 1,
-   "changeable": 0,
-"spider": "https://raw.githubusercontent.com/zzq12345/CatVodSpider/main/jar/custom_spider.jar",
 
-   "ext": "./lib/duboku.json$$$socks5://127.0.0.1:10071"
-  },
 {
 			"key": "网盘配置",
 			"name": "网盘及彈幕配置",

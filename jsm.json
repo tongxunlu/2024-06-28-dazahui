@@ -109,15 +109,7 @@
 			"changeable": 0,
 			"ext":""
 		},
-		{
-			"key": "獨播",
-			"name": "獨播 | 海外",
-			"type": 3,
-			"api": "csp_XPathMacFilter",
-			"searchable": 1,
-			"changeable": 0,
-			"ext": "./lib/duboku.json$$$"
-		},
+		
 		{
 			"key": "haiwaikan",
 			"name": "海外看",
@@ -145,7 +137,7 @@
 				"冒险片",
 				"剧情片",
 				"动作片",
-				"同性片",
+				
 				"喜剧片",
 				"奇幻片",
 				"恐怖片",
@@ -161,6 +153,17 @@
 				"经典片"
 			]
 		},
+
+{
+			"key": "獨播",
+			"name": "獨播 | 海外",
+			"type": 3,
+			"api": "csp_XPathMacFilter",
+			"searchable": 1,
+			"changeable": 0,
+			"ext": "./lib/duboku.json$$$"
+		},
+
 		{
 			"key": "暴風",
 			"name": "暴風",

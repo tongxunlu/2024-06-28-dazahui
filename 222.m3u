@@ -1053,17 +1053,17 @@ https://ctrl.laotv.la/live/CCTV14/index.m3u8
 https://ctrl.laotv.la/live/ChinaMovie/index.m3u8
 #EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="老挝直播",Hunan湖南卫视
 https://ctrl.laotv.la/live/Hunan/index.m3u8
-#EXTINF:-1 tvg-id="100262" tvg-name="東森電影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCMovies.png" group-title="老挝直播",東森電影台
+#EXTINF:-1 tvg-id="1002612" tvg-name="東森電影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCMovies.png" group-title="老挝直播",東森電影台
 https://ctrl.laotv.la/live/DongsenMovie/index.m3u8
-#EXTINF:-1 tvg-id="100266" tvg-name="東森洋片台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCWesternMovies.png" group-title="老挝直播",東森洋片台
+#EXTINF:-1 tvg-id="100265" tvg-name="東森洋片台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCWesternMovies.png" group-title="老挝直播",東森洋片台
 https://ctrl.laotv.la/live/DongsenForeignMovie/index.m3u8
-#EXTINF:-1 tvg-id="100264"  tvg-name="LS TIME電影台" tvg-logo="" group-title="老挝直播",LS TIME電影台
+#EXTINF:-1 tvg-id="100263"  tvg-name="LS TIME電影台" tvg-logo="" group-title="老挝直播",LS TIME電影台
 https://ctrl.laotv.la/live/Longxiang/index.m3u8
 #EXTINF:-1  tvg-id="70020" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_22.png" group-title="老挝直播",天映经典
 https://ctrl.laotv.la/live/CHCA/index.m3u8
 
 
-#EXTINF:-1 tvg-id="100265" tvg-name="HBO" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBO.png" group-title="老挝直播",HBO
+#EXTINF:-1 tvg-id="100264" tvg-name="HBO" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBO.png" group-title="老挝直播",HBO
 https://ctrl.laotv.la/live/HBO/index.m3u8
 #EXTINF:-1 tvg-id="100270" tvg-name="CINEMAX有線" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CinemaxHD.png" group-title="老挝直播",CINEMAX有線
 https://ctrl.laotv.la/live/Cinemax/index.m3u8

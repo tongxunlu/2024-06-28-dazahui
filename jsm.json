@@ -36,14 +36,14 @@
                                 "logo": "http://127.0.0.1:10079/p/0/127.0.0.1:10074/https://epg.112114.xyz/logo/{name}.png"
                         },
 
-{
+                         {
     "name":"drm ",
     "url":"https://raw.githubusercontent.com/zzq12345/CatVodSpider/main/json/MPD.txt"
-    }, 
-{
+                            }, 
+                        {
 "name":"mytv",
 "url":"https://raw.githubusercontent.com/zzq12345/CatVodSpider/main/json/mytv.m3u"
-},
+                        },
     
 {
   "name":"4gtv",
@@ -727,7 +727,7 @@
 			"changeable": 0,
 			"ext": "https://fm.t4tv.hz.cz/json/market.json"
 		}
-]
+],
 		"doh": [
 			{
 				"name": "Google",
@@ -772,6 +772,7 @@
 				]
 			}
 		],
+	
 		"rules":[
 			{
 				"name": "proxy",
@@ -895,4 +896,5 @@
     "s3t3d2y8.afcdn.net",
   "4gtvfreepcvod-cds.cdn.hinet.net"
   ]
+	
 }

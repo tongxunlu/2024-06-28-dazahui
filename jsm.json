@@ -77,7 +77,6 @@
 				"冒险片",
 				"剧情片",
 				"动作片",
-				"同性片",
 				"喜剧片",
 				"奇幻片",
 				"恐怖片",
@@ -93,16 +92,7 @@
 				"经典片"
 			]
 		},
-		{
-			"key": "ikun",
-			"name": "ikun",
-			"type": 1,
-			"api": "http://127.0.0.1:10079/p/0/proxy/https://ikunzyapi.com/api.php/provide/vod/?",
-			"playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=proxy&url=",
-			"playerType":1,
-			"searchable": 1,
-			"changeable": 1
-		},
+		
 		{
 			"key": "飞速资源",
 			"name": "飞速资源",
@@ -440,6 +430,16 @@
 				"分类": "电影$1#电视剧$2#动漫$3#短剧$4#综艺$5",
 				"分类url": "https://www.baipiaoys.com:9092/show/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html"
 			}
+		},
+                                   {
+			"key": "ikun",
+			"name": "ikun",
+			"type": 1,
+			"api": "http://127.0.0.1:10079/p/0/proxy/https://ikunzyapi.com/api.php/provide/vod/?",
+			"playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=proxy&url=",
+			"playerType":1,
+			"searchable": 1,
+			"changeable": 1
 		},
 		{"key":"XBPQ_黑狐影院","name":"黑狐影院|XBPQ","type":3,"api":"csp_XBPQ", "jar":"./lib/XBPQ.jar",
 			"ext": {

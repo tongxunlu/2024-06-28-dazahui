@@ -3665,6 +3665,9 @@ http://127.0.0.1:8081/newsweb.php
 http://127.0.0.1:8081/douyin.php?id=69416429589
 #EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="youtube中文新闻",CCTV-6
 http://127.0.0.1:8081/douyin.php?id=208823316033
+#EXTINF:-1 tvg-id="800006" tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="youtube中文新闻",CCTV6电影
+
+http://mobilelive-ds.ysp.cctv.cn/ysp/2013693901.m3u8
 
 #EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="youtube中文新闻",cctv-4亚洲
 http://127.0.0.1:8081/cctv4.php

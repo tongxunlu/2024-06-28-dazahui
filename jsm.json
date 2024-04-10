@@ -689,6 +689,13 @@
    "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
+			  {
+"name":"youtube测试",
+
+"url":"./youtubelive.txt",
+   "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
 {
   "name":"4gtv",
 "url":"https://raw.githubusercontent.com/zzq12345/CatVodSpider/main/json/4gtv.m3u",

@@ -20,7 +20,51 @@
 			"changeable": 0,
 			"ext":"./lib/tokenm.json"
 		},
+		{"key":"Local","name":"本地","type":3,"api":"csp_Local"},
 
+{
+			"key": "haiwaikan",
+			"name": "海外看",
+			"type": 1,
+			"api": "http://127.0.0.1:10079/p/0/proxy/https://haiwaikan.com/api.php/provide/vod?",
+			"playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=proxy&url=",
+			"searchable": 1,
+			"changeable": 1,
+			"categories": [
+				"日本动漫",
+				"国产动漫",
+				"欧美动漫",
+				"国产剧",
+				"韩剧",
+				"日剧",
+				"台剧",
+				"泰剧",
+				"港剧",
+				"欧美剧",
+				"动画电影",
+				"韩国综艺",
+				"国产综艺",
+				"日本综艺",
+				"欧美综艺",
+				"冒险片",
+				"剧情片",
+				"动作片",
+				"同性片",
+				"喜剧片",
+				"奇幻片",
+				"恐怖片",
+				"悬疑片",
+				"惊悚片",
+				"战争片",
+				"歌舞片",
+				"灾难片",
+				"爱情片",
+				"犯罪片",
+				"科幻片",
+				"纪录片",
+				"经典片"
+			]
+		},
 { "key":"csp_YingShi","name":"影视|海外","type":3,"api":"csp_YingShi","ext":"proxy"},
 		{ 
 			"key": "泥巴", 
@@ -50,49 +94,17 @@
 			"changeable": 0,
 			"ext": "./lib/duboku.json$$$proxy"
 		},
-		{
-			"key": "haiwaikan",
-			"name": "海外看",
-			"type": 1,
-			"api": "http://127.0.0.1:10079/p/0/proxy/https://haiwaikan.com/api.php/provide/vod?",
-			"playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=proxy&url=",
-			"searchable": 1,
-			"changeable": 1,
-			"categories": [
-				"日本动漫",
-				"国产动漫",
-				"欧美动漫",
-				"国产剧",
-				"韩剧",
-				"日剧",
-				"台剧",
-				"泰剧",
-				"港剧",
-				"欧美剧",
-				"动画电影",
-				"韩国综艺",
-				"国产综艺",
-				"日本综艺",
-				"欧美综艺",
-				"冒险片",
-				"剧情片",
-				"动作片",
-				"喜剧片",
-				"奇幻片",
-				"恐怖片",
-				"悬疑片",
-				"惊悚片",
-				"战争片",
-				"歌舞片",
-				"灾难片",
-				"爱情片",
-				"犯罪片",
-				"科幻片",
-				"纪录片",
-				"经典片"
-			]
-		},
 		
+		{
+			"key": "ikun",
+			"name": "ikun",
+			"type": 1,
+			"api": "http://127.0.0.1:10079/p/0/proxy/https://ikunzyapi.com/api.php/provide/vod/?",
+			"playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=proxy&url=",
+			"playerType":1,
+			"searchable": 1,
+			"changeable": 1
+		},
 		{
 			"key": "飞速资源",
 			"name": "飞速资源",
@@ -223,7 +235,6 @@
 			"ext":"https://www.duanjutv.icu"
 		},
 
-		{"key":"Local","name":"本地","type":3,"api":"csp_Local"},
 		{"key":"PushShare","name":"我的资源分享","type":3, "api":"csp_PushShare","searchable":1,"quickSearch":1, "changeable":1, "filterable":0, "timeout":60, "ext":"./lib/tokenm.json$$$./lib/pushshare.txt$$$db$$$1",
 			"style": {
 				"type": "list",
@@ -430,16 +441,6 @@
 				"分类": "电影$1#电视剧$2#动漫$3#短剧$4#综艺$5",
 				"分类url": "https://www.baipiaoys.com:9092/show/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html"
 			}
-		},
-                                   {
-			"key": "ikun",
-			"name": "ikun",
-			"type": 1,
-			"api": "http://127.0.0.1:10079/p/0/proxy/https://ikunzyapi.com/api.php/provide/vod/?",
-			"playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=proxy&url=",
-			"playerType":1,
-			"searchable": 1,
-			"changeable": 1
 		},
 		{"key":"XBPQ_黑狐影院","name":"黑狐影院|XBPQ","type":3,"api":"csp_XBPQ", "jar":"./lib/XBPQ.jar",
 			"ext": {
@@ -682,6 +683,7 @@
 			"ext": "https://fm.t4tv.hz.cz/json/market.json"
 		}],
 		"lives":[
+
   {
 "name":"台湾",
 
@@ -707,50 +709,6 @@
       "name": "自用",
       "url": "https://raw.githubusercontent.com/zzq12345/CatVodSpider/main/json/livetest.txt",
       "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
-    },
-
-
-                        {
-                                "name": "live.ipv6",
-                                "type": 0,
-                                "url": "http://127.0.0.1:10079/p/0/127.0.0.1:10074/https://fanmingming.com/txt?url=https://live.fanmingming.com/tv/m3u/ipv6.m3u",
-                                "playerType": 1,
-                                "ua": "okhttp/3.15",
-                                "epg": "http://127.0.0.1:10079/p/0/127.0.0.1:10074/http://epg.112114.xyz/?ch={name}&date={date}",
-                                "logo": "http://127.0.0.1:10079/p/0/127.0.0.1:10074/https://epg.112114.xyz/logo/{name}.png"
-                        },
-                        {
-                                "name": "live.ipv6.m3u",
-                                "type": 0,
-                                "url": "http://127.0.0.1:10079/p/0/127.0.0.1:10074/https://live.fanmingming.com/tv/m3u/ipv6.m3u",
-                                "playerType": 1,
-                                "ua": "okhttp/3.15",
-                                "epg": "http://127.0.0.1:10079/p/0/127.0.0.1:10074/http://epg.112114.xyz/?ch={name}&date={date}",
-                                "logo": "http://127.0.0.1:10079/p/0/127.0.0.1:10074/https://epg.112114.xyz/logo/{name}.png"
-                        },
-
-	  
-    {
-    "name":"drm ",
-    "url":"https://raw.githubusercontent.com/zzq12345/CatVodSpider/main/json/MPD.txt"
-    }, 
-{
-"name":"mytv",
-"url":"https://raw.githubusercontent.com/zzq12345/CatVodSpider/main/json/mytv.m3u"
-},
-    
-
-{
-      "name": "印尼",
-      "url": "https://raw.githubusercontent.com/zzq12345/CatVodSpider/main/json/印尼.m3u",
-  "epg": "https://epg.112114.xyz/?ch={name}&date={date}?",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
-    },
-    {
-    "name":"体育",
-    "url":"https://raw.githubusercontent.com/AberTown/V_Zone.m3u/main/V_Sport.m3u",
-       "epg": "https://epg.112114.xyz/?ch={name}&date={date}?",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
 
@@ -999,10 +957,5 @@
 		],
 		"flags":["youku","qq","iqiyi","qiyi","letv","sohu","tudou","pptv","mgtv","wasu"],
 		"wallpaper": "http://饭太硬.top/深色壁纸/api.php",
-		"disabled_wallpaper":"http://www.kf666888.cn/api/tvbox/img",
-"ads": [
-    "static-mozai.4gtv.tv",
-    "s3t3d2y8.afcdn.net",
-  "4gtvfreepcvod-cds.cdn.hinet.net"
-  ]
+		"disabled_wallpaper":"http://www.kf666888.cn/api/tvbox/img"
 }

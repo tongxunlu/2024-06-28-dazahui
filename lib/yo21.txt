@@ -581,18 +581,6 @@ GTV DRAMA 八大劇樂部,https://www.youtube.com/watch?v=hcxLMIfxi0A
 三立華劇 SET Drama,https://www.youtube.com/watch?v=he_Zx7smZqk
 GTV DRAMA 八大劇樂部,https://www.youtube.com/watch?v=mkZRq57c438
 Arise News,https://www.youtube.com/watch?v=nvvLD5TNAwQ
-鳳凰直播,#genre#
-华为鸿蒙生态春季沟通会,http://zzqwe.giize.com:12229/fengzhibo.php?id=1013113
-<br />
-<b>Notice</b>:  Undefined variable: dt11 in <b>D:\phpStudypro\PHPTutorial\WWW\youtubelive.php</b> on line <b>305</b><br />
-华为鸿蒙生态春季沟通会,http://zzqwe.giize.com:12229/fengzhibo.php?id=1013113
-香港2024国际城巿林务研讨会（二）,http://zzqwe.giize.com:12229/fengzhibo.php?id=1013053
-<br />
-<b>Notice</b>:  Undefined offset: 2 in <b>D:\phpStudypro\PHPTutorial\WWW\youtubelive.php</b> on line <b>334</b><br />
-,http://zzqwe.giize.com:12229/fengzhibo.php?id=1013114
-<br />
-<b>Notice</b>:  Undefined offset: 3 in <b>D:\phpStudypro\PHPTutorial\WWW\youtubelive.php</b> on line <b>334</b><br />
-,http://zzqwe.giize.com:12229/fengzhibo.php?id=1013121
-<br />
-<b>Notice</b>:  Undefined offset: 4 in <b>D:\phpStudypro\PHPTutorial\WWW\youtubelive.php</b> on line <b>334</b><br />
-,http://zzqwe.giize.com:12229/fengzhibo.php?id=1013117
+
+
+

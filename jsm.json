@@ -64,7 +64,15 @@
 			]
 		},
 { "key":"csp_YingShi","name":"影视|海外","type":3,"api":"csp_YingShi","ext":"proxy"},
-		
+{
+       "key":"drpy_js_爱看机器人",
+       "name":"爱看机器人[js]",
+        "api":"http://127.0.0.1:10079/p/0/proxy/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+       "type":3,
+        "style":{ "type":"rect","ratio":1.33 },
+     
+       "ext":"  http://127.0.0.1:10079/p/0/proxy/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/ikanbot2.js"
+     },		
 {
        "key":"drpy_js_爱看机器人",
        "name":"爱看机器[js]",

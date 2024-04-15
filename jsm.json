@@ -12,6 +12,18 @@
 			"ext": "./lib/douban.json"
 		},
 		{
+    "key":"Czsapp",
+    "name":"📔厂长之家",
+    "type":3,
+    "jar":"https://github.com/zzq12345/CatVodSpider/raw/main/json/fan.txt",
+    "api":"csp_Czsapp",
+    "playerType":2,
+    "searchable":1,
+    "quickSearch":1,
+    "changeable":1,
+    "ext":"https://www.cz233.com/"
+  },
+		{
 			"key": "网盘配置",
 			"name": "网盘及彈幕配置",
 			"type": 3,

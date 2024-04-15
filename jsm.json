@@ -693,7 +693,8 @@
 			"ext": "https://fm.t4tv.hz.cz/json/market.json"
 		}],
 		"lives":[
-	{
+	
+			{
 				"name": "YouTubeLive",
 				"type": 0,
 				"playerType": 1,

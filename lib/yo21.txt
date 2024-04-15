@@ -7,6 +7,7 @@ cctv4,https://www.youtube.com/watch?v=bEZYrBMYNNg
 大愛電視 Tzu Chi DaAiVideo,https://www.youtube.com/watch?v=oV_i3Hsl_zg
 中視新聞 HD直播頻道｜Taiwan CTV news HD Live,https://www.youtube.com/watch?v=TCnaIE_SAtM
 華視新聞 CH52,https://www.youtube.com/watch?v=wM0g8EoUZ_E
+華視新聞 CH52,https://www.youtube.com/live/wM0g8EoUZ_E
 TTV LIVE 台視直播,https://www.youtube.com/watch?v=uDqQo8a7Xmk
 大愛電視 Tzu Chi DaAiVideo,https://www.youtube.com/watch?v=MIqUplvSRWA
 鏡新聞,https://www.youtube.com/watch?v=5n0y6b0Q25o

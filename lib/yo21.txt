@@ -1,4 +1,6 @@
 新聞,#genre#
+鳳凰資訊,https://www.youtube.com/live/HFib76ySpbU
+cctv4,https://www.youtube.com/watch?v=bEZYrBMYNNg
 台視新聞 TTV NEWS,https://www.youtube.com/watch?v=xL0ch83RAK8
 大愛電視 Tzu Chi DaAiVideo,https://www.youtube.com/watch?v=DTNkEm6jaqQ
 大愛電視 Tzu Chi DaAiVideo,https://www.youtube.com/watch?v=oV_i3Hsl_zg

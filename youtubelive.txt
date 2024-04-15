@@ -1,4 +1,6 @@
 新聞,#genre#
+鳳凰資訊,https://www.youtube.com/live/HFib76ySpbU
+cctv4,https://www.youtube.com/watch?v=bEZYrBMYNNg
 台視新聞 TTV NEWS,https://www.youtube.com/watch?v=xL0ch83RAK8
 大愛電視 Tzu Chi DaAiVideo,https://www.youtube.com/watch?v=DTNkEm6jaqQ
 大愛電視 Tzu Chi DaAiVideo,https://www.youtube.com/watch?v=oV_i3Hsl_zg
@@ -31,7 +33,7 @@ CTIASIA 中天亞洲台,https://www.youtube.com/watch?v=s2waUruqze4
 國會頻道,https://www.youtube.com/watch?v=tDg3bJFYLzI
 寰宇新聞 頻道,https://www.youtube.com/watch?v=w87VGpgd90U
 寰宇財經新聞,https://www.youtube.com/watch?v=25SE1bbTv9k
-LIVE NOW,https://www.youtube.com/watch?v=bEZYrBMYNNg
+
 運通財經台,https://www.youtube.com/watch?v=7Bwq6Ltrj1o
 臨時直播,#genre#
 民視戲劇館 Formosa TV Dramas,https://www.youtube.com/watch?v=298QROP4xe0

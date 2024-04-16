@@ -846,9 +846,9 @@ https://ctrl.laotv.la/live/AomenLotus/index.m3u8
 https://ctrl.laotv.la/live/CCTVGolf/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="老挝直播",博斯高尔夫
 https://ctrl.laotv.la/live/BosiGolf/index.m3u8
-#EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="老挝直播",凤凰资讯s
+#EXTINF:-1 tvg-id="70037" tvg-name="鳳凰資訊" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="老挝直播",鳳凰資訊
 https://ctrl.laotv.la/live/PhoenixNews/index.m3u8
-#EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="老挝直播",凤凰中文
+#EXTINF:-1 tvg-id="70036" tvg-name="鳳凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="老挝直播",鳳凰中文
 https://ctrl.laotv.la/live/PhxChinese/index.m3u8
 
 #EXTINF:-1 tvg-id="6039" tvg-name="动物星球" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/AnimalPlanet.png" group-title="老挝直播",AnimalPlanet

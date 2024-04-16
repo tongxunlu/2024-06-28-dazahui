@@ -3647,7 +3647,7 @@ http://127.0.0.1:8081/huya.php?id=880242
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1064/d4/14d682e455e66d7ebfa0c440feedde_180_135.jpg?1640588965" group-title="虎牙", NCT127-在玹
 http://127.0.0.1:8081/huya.php?id=637218
 
-#EXTINF:-1 tvg-id="100597" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png"  group-title="youtube中文新闻",鳳凰資訊頻道
+#EXTINF:-1 tvg-id="70037" tvg-name="鳳凰資訊" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png"  group-title="youtube中文新闻",鳳凰資訊
 http://127.0.0.1:8081/fenghuangyoutube.php?id=1
 #EXTINF:-1 tvg-logo="https://www.katyusha.tv/themes/katyusha_clean/images/logo@2x.png" tvg-id="600100" tvg-name="喀秋莎" group-title="youtube中文新闻",喀秋莎
 
@@ -4438,9 +4438,9 @@ http://127.0.0.1:8081/cnbcarabic.php
 
 
 
-#EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视资讯台.png" group-title="香港",凤凰资讯
+#EXTINF:-1 tvg-id="70037" tvg-name="鳳凰資訊" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视资讯台.png" group-title="香港",鳳凰資訊
 https://ctrl.laotv.la/live/PhoenixNews/index.m3u8
-#EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视中文台.png" group-title="香港",凤凰中文
+#EXTINF:-1 tvg-id="70036" tvg-name="鳳凰中文" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视中文台.png" group-title="香港",鳳凰中文
 https://ctrl.laotv.la/live/PhxChinese/index.m3u8
 
 

@@ -2646,7 +2646,7 @@ CCTV-第一剧场,http://127.0.0.1:8081/ysp-dec.php?id=dyjc
 东方甄选,http://127.0.0.1:8081/douyin.php?id=80017709309
 上海外语频道,http://127.0.0.1:8081/douyin.php?id=250514675201
 
-湖南经济,http://127.0.0.1:8081/douyin.php?id=301788940262
+湖南经济,http://127.0.0.1:8081/douyin.php?id=301788940262?camera_id=0
 cctv1,http://127.0.0.1:8081/douyin.php?id=456815963645
 cctv4,http://127.0.0.1:8081/douyin.php?id=166806983360
 东方甄选,http://127.0.0.1:8081/douyin.php?id=80017709309

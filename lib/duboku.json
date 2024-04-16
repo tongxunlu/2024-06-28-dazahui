@@ -7,7 +7,7 @@
   "cateNode": "//ul[contains(@class,'nav-menu')]/li/a[contains(@href, 'vodtype')]",
   "cateName": "/text()",
   "cateId": "/@href",
-  "cateIdR": "/vodtype/(\\w+).html",
+  "cateIdR": "/vodtype/tv/(\\w+).html",
   "cateManual": {
     "陆剧": "13",
     "日韩剧": "15",

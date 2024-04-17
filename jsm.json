@@ -735,6 +735,10 @@
     },
 {
   "name":"4gtv",
+  "type": 0,
+				
+  "playerType": 1,
+  "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",                              
 "url":"https://raw.githubusercontent.com/zzq12345/CatVodSpider/main/json/4gtv.m3u",
   "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"

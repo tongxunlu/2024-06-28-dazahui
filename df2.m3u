@@ -3712,7 +3712,7 @@ http://192.168.10.250/linetv.php?id=taiwanshenghuonews
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube中文新闻",MOD点播
 https://modfree-hamivideo.cdn.hinet.net/out/u/live/gop4/cht/hamitv-event024/hls-ae-tv/index.m3u8
 
-#EXTINF:-1 tvg-id="100337" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/中视新闻.png"  tvg-name="中视新闻" group-title="youtube中文新闻",中视新闻台
+#EXTINF:-1 tvg-id="中視新聞台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/中视新闻.png"  tvg-name="中視新聞台" group-title="youtube中文新闻",中視新聞台
 http://192.168.10.250/zhongshinews.php
 #EXTINF:-1 tvg-id="4gtv-4gtv009" tvg-name="中天新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CtiNews.png" group-title="youtube中文新闻",中天新闻
 http://192.168.10.250/zhongtiannews.php
@@ -3723,12 +3723,12 @@ http://192.168.10.250/youtube.php?v=oIgbl7t0S_w
 
 #EXTINF:-1 tvg-id="4gtv-4gtv009" tvg-name="中天新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CtiNews.png" group-title="youtube中文新闻",中天新闻2
 http://192.168.10.250/youtube.php?v=WPfPjbOLNfE
-#EXTINF:-1 tvg-id="100601" tvg-name="" tvg-logo="" group-title="youtube中文新闻",中天亞洲台
+#EXTINF:-1 tvg-id="中天亞洲台" tvg-name="中天亞洲台" tvg-logo="" group-title="youtube中文新闻",中天亞洲台
 http://192.168.10.250/zhongtianasia.php
 
 
 
-#EXTINF:-1 tvg-id="100254" tvg-name="TVBS新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS新闻.png" group-title="youtube中文新闻",tvbs新闻
+#EXTINF:-1 tvg-id="TVBS 新聞台" tvg-name="TVBS新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS新闻.png" group-title="youtube中文新闻",TVBS 新聞台
 http://192.168.10.250/linetv.php?id=tvbsnews
 
 
@@ -3742,12 +3742,12 @@ http://192.168.10.250/youtube.php?v=xL0ch83RAK8
 http://192.168.10.250/taishi.php?id=2
 #EXTINF:-1 tvg-id="台視" tvg-name="台視" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/台视.png" group-title="youtube中文新闻",台視
 http://192.168.10.250/taishi.php?id=1
-#EXTINF:-1 tvg-id="100140" tvg-name="寰宇新闻台湾" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GlobalNews.png" group-title="youtube中文新闻",寰宇新聞台灣台
+#EXTINF:-1 tvg-id="寰宇新聞台灣台" tvg-name="寰宇新聞台灣台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GlobalNews.png" group-title="youtube中文新闻",寰宇新聞台灣台
 http://192.168.10.250/huanyunews.php?id=1
-#EXTINF:-1 tvg-id="100282" tvg-name="寰宇新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GlobalNews.png" group-title="youtube中文新闻",寰宇新闻
+#EXTINF:-1 tvg-id="寰宇新聞台" tvg-name="寰宇新聞台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GlobalNews.png" group-title="youtube中文新闻",寰宇新聞台
 http://192.168.10.250/huanyunews.php?id=2
 
-#EXTINF:-1 tvg-id="100282" tvg-name="寰宇新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GlobalNews.png" group-title="youtube中文新闻",寰宇新闻
+#EXTINF:-1 tvg-id="寰宇新聞台" tvg-name="寰宇新聞台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GlobalNews.png" group-title="youtube中文新闻",寰宇新聞台
 http://192.168.10.250/huanyunews.php?id=3
 #EXTINF:-1 tvg-id="litv-longturn23" tvg-name="寰宇財經台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-longturn23_mobile.png" group-title="youtube中文新闻",寰宇財經台
 http://192.168.10.250/huanyufince.php
@@ -3870,7 +3870,7 @@ http://192.168.10.250/haitun.php
 #EXTINF:-1 tvg-id="誠心電視台" tvg-name="誠心電視台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ChengSinTV.png" group-title="youtube中文新闻",誠心電視台
 http://192.168.10.250/chengxin.php
 
-#EXTINF:-1 tvg-id="信大電視台" tvg-name="信大電視台" tvg-logo="" group-title="youtube中文新闻",信大電視台
+#EXTINF:-1 tvg-id="信大電視台"  tvg-name="信大電視台"  tvg-logo="" group-title="youtube中文新闻",信大電視台
 http://192.168.10.250/xinda.php
 
 

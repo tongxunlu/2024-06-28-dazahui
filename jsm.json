@@ -750,7 +750,10 @@
       "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
-{"name":"临时",
+{
+	"name":"临时",
+"type": 0,
+"playerType": 1,
 	"url":"https://gh.con.sh/https://raw.githubusercontent.com/tvbox10588/tv/main/p3p.txt"
 },
 {

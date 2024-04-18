@@ -750,12 +750,8 @@
       "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
-{
-	"name":"临时",
-"type": 0,
-"playerType": 1,
-	"url":"https://gh.con.sh/https://raw.githubusercontent.com/tvbox10588/tv/main/p3p.txt"
-},
+
+	
 {
             "name": "央视频",
             "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",

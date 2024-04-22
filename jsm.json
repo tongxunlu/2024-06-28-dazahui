@@ -12,18 +12,6 @@
 			"ext": "./lib/douban.json"
 		},
 		{
-    "key":"Czsapp",
-    "name":"📔厂长之家",
-    "type":3,
-    "jar":"https://github.com/zzq12345/CatVodSpider/raw/main/json/fan.txt",
-    "api":"csp_Czsapp",
-    "playerType":2,
-    "searchable":1,
-    "quickSearch":1,
-    "changeable":1,
-    "ext":"https://www.cz233.com/"
-  },
-		{
 			"key": "网盘配置",
 			"name": "网盘及彈幕配置",
 			"type": 3,
@@ -32,6 +20,15 @@
 			"changeable": 0,
 			"ext":"./lib/tokenm.json"
 		},
+		{"key":"Local","name":"本地","type":3,"api":"csp_Local"},
+		{"key":"PushShare","name":"我的资源分享","type":3, "api":"csp_PushShare","searchable":1,"quickSearch":1, "changeable":1, "filterable":0, "timeout":60, "ext":"./lib/tokenm.json$$$./lib/pushshare.txt$$$db$$$1",
+			"style": {
+				"type": "list",
+				"ratio": 1.1
+			}
+		},
+{ "key": "Ikanbot", "name": "爱看机器人", "type": 3, "api": "csp_Ikanbot", "searchable": 1, "quickSearch": 1, "filterable": 1, "changeable": 1 , "ext":"https://v.ikanbot.com$$$proxy"},
+
 {
 			"key": "haiwaikan",
 			"name": "海外看",
@@ -75,26 +72,9 @@
 				"经典片"
 			]
 		},
-{ "key":"csp_YingShi","name":"影视|海外","type":3,"api":"csp_YingShi","ext":"proxy"},
-{
-       "key":"drpy_js_爱看机器人",
-       "name":"爱看机器人[js]",
-        "api":"http://127.0.0.1:10079/p/0/proxy/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-       "type":3,
-        "style":{ "type":"rect","ratio":1.33 },
-     
-       "ext":"  http://127.0.0.1:10079/p/0/proxy/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/ikanbot2.js"
-     },		
-{
-       "key":"drpy_js_爱看机器人",
-       "name":"爱看机器[js]",
-        "api":"http://127.0.0.1:10079/p/0/proxy/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-       "type":3,
-        "style":{ "type":"rect","ratio":1.33 },
-     
-       "ext":"   http://127.0.0.1:10079/p/0/proxy/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/ikanbot2.js"
-     },
-{ 
+	
+		{ "key":"csp_YingShi","name":"影视|海外","type":3,"api":"csp_YingShi","ext":"proxy"},
+		{ 
 			"key": "泥巴", 
 			"name": "泥巴 | 海外", 
 			"type": 3, 
@@ -104,8 +84,6 @@
 			"changeable": 0, 
 			"ext":"0$$$proxy" 
 		},
-		
-      
 		{
 			"key": "星星",
 			"name": "星星 | 海外",
@@ -125,8 +103,26 @@
 			"ext": "./lib/duboku.json$$$proxy"
 		},
 		
-		
-		
+		{
+			"key": "ikun",
+			"name": "ikun",
+			"type": 1,
+			"api": "http://127.0.0.1:10079/p/0/proxy/https://ikunzyapi.com/api.php/provide/vod/?",
+			"playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=proxy&url=",
+			"playerType":1,
+			"searchable": 1,
+			"changeable": 1
+		},
+		{
+			"key": "飞速资源",
+			"name": "飞速资源",
+			"type": 1,
+			"api": "http://127.0.0.1:10079/p/0/proxy/http://fszy1.com/api.php/provide/vod/?",
+			"playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=proxy&url=",
+			"playerType":1,
+			"searchable": 1,
+			"changeable": 1
+		},
 		{
 			"key": "暴風",
 			"name": "暴風",
@@ -247,13 +243,9 @@
 			"ext":"https://www.duanjutv.icu"
 		},
 
-		{"key":"Local","name":"本地","type":3,"api":"csp_Local"},
-		{"key":"PushShare","name":"我的资源分享","type":3, "api":"csp_PushShare","searchable":1,"quickSearch":1, "changeable":1, "filterable":0, "timeout":60, "ext":"./lib/tokenm.json$$$./lib/pushshare.txt$$$db$$$1",
-			"style": {
-				"type": "list",
-				"ratio": 1.1
-			}
-		},
+
+
+
 		{"key":"AliShare","name":"阿里云盘影视分享","type":3,"api":"csp_AliShare","searchable":1,"quickSearch":1, "changeable":1, "filterable":0, "timeout":60, "ext":"./lib/tokenm.json$$$./lib/alishare.txt$$$db$$$1",
 			"style": {
 				"type": "list",
@@ -332,15 +324,17 @@
 			}
 		},
 		{"key":"Wogg","name":"玩偶哥哥|网盘","type":3,"api":"csp_Wogg","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"./lib/tokenm.json$$$https://wogg.link/$$$proxy$$$1$$$./lib/wogg.json"},
+		{"key":"Wo4k","name":"玩偶4K|磁力","type":3,"api":"csp_Wo4k","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"./lib/tokenm.json$$$https://www.wo4k.com/$$$proxy$$$1$$$./lib/wogg.json"},
 		{"key":"Wobg","name":"玩偶表哥|网盘","type":3,"api":"csp_Wobg","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"./lib/tokenm.json$$$https://wobge.run.goorm.io$$$proxy$$$1$$$./lib/wogg.json"},
 		{"key":"yydsys","name":"玩你老哥|网盘","type":3,"api":"csp_Wobg","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"./lib/tokenm.json$$$https://tv.yydsys.top/$$$proxy$$$1$$$./lib/wogg.json"},
+		{"key":"Gaoqing","name":"中国高清网|网盘","type":3,"api":"csp_Gaoqing","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"./lib/tokenm.json$$$https://gaoqing.la/$$$proxy$$$1"},
+		{"key":"ddys","name":"低端影视|网盘","type":3,"api":"csp_Ddys","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"./lib/tokenm.json$$$https://ddys.pro/$$$proxy$$$1$$$"},
 		{"key":"Xinshijue","name":"新视觉|网盘","type":3,"api":"csp_Xinshijue","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"./lib/tokenm.json$$$https://www.80yy3.com/$$$proxy$$$1$$$./lib/wogg.json"},
-		{"key":"影视车","name":"影视车|网盘","type":3,"api":"csp_Wogg","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"./lib/tokenm.json$$$https://www.weixine.link/$$$proxy$$$1$$$./lib/wogg.json"},
 		{"key":"团长资源","name":"团长资源|网盘","type":3,"api":"csp_TZFile", "quickSearch":1, "changeable":1, "filterable":1, "timeout":60,"ext":"./lib/tokenm.json$$$proxy$$$1"},
 		{"key":"Moli","name":"HDmoli|网盘","type":3,"api":"csp_Moli","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"./lib/tokenm.json$$$https://www.hdmoli.pro/$$$proxy$$$1$$$./lib/moli.json"},
 		{"key":"Hdhive","name":"影巢|网盘","type":3,"api":"csp_Hdhive","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"./lib/tokenm.json$$$proxy$$$1"},
-		{"key":"Ppxzy","name":"皮皮虾|网盘","type":3,"api":"csp_Ppxzy", "quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"./lib/tokenm.json$$$https://ppxzy.net$$$proxy$$$1"},
-		{"key":"校长影视","name":"校长影视|网盘","type":3,"api":"csp_XiaoZhang", "quickSearch":1, "changeable":1, "filterable":1, "timeout":60,"ext":"./lib/tokenm.json$$$https://xzyshd.com$$$null$$$1"},
+		{"key":"Ppxzy","name":"皮皮虾|网盘","type":3,"api":"csp_Ppxzy", "quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"./lib/tokenm.json$$$https://ppxzy.ink$$$proxy$$$1"},
+		{"key":"校长影视","name":"校长影视|网盘","type":3,"api":"csp_XiaoZhang", "quickSearch":1, "changeable":1, "filterable":1, "timeout":60,"ext":"./lib/tokenm.json$$$https://xzyshd.com$$$proxy$$$1"},
 		{
 			"key": "Bdys_spider",
 			"name": "哔滴┃磁力",
@@ -537,7 +531,6 @@
 			"name": "天天┃App",
 			"type": 3,
 			"api": "csp_TTian",
-			"playerType": 1,
 			"ext": "http://op.ysdqjs.cn$$$null$$$1"
 		},
 		{
@@ -545,7 +538,6 @@
 			"name": "追剧┃App",
 			"type": 3,
 			"api": "csp_TTian",
-			"playerType": 1,
 			"ext": "http://app.kzjtv.com$$$null$$$1"
 		},
 		{
@@ -558,19 +550,7 @@
 			"ext": "./lib/jianpian.json$$$1",
 			"timeout":60
 		},
-		{ "key": "YQKan", "name": "一起看", "type": 3, "api": "csp_YQKan", "searchable": 1, "quickSearch": 1, "filterable": 1, "changeable": 1 },
-		
-{
-			"key": "ikun",
-			"name": "ikun",
-			"type": 1,
-			"api": "http://127.0.0.1:10079/p/0/proxy/https://ikunzyapi.com/api.php/provide/vod/?",
-			"playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=proxy&url=",
-			"playerType":1,
-			"searchable": 1,
-			"changeable": 1
-		},
-{
+		{
 			"key": "索尼资源",
 			"name": "索尼┃资源",
 			"type": 1,
@@ -661,7 +641,7 @@
 			"changeable": 0,
 			"filterable": 1
 		},
-		
+	
 		{"key":"drpy_js_Alist","name":"网盘 | Alist[js]","type":3,"api":"./lib/alist.min.js","searchable":1,"filterable":1,"changeable":1,"ext":"./js/alist.json"},
 		{
 			"key":"MV_vod",
@@ -707,8 +687,8 @@
 			"ext": "https://fm.t4tv.hz.cz/json/market.json"
 		}],
 		"lives":[
-	
-			{
+
+{
 				"name": "YouTubeLive",
 				"type": 0,
 				"playerType": 1,
@@ -759,7 +739,7 @@
             "url": "./嗅探.m3u"
 },
 
-                         {
+			{
 				"name": "live.ipv6",
 				"type": 0,
 				"url": "http://127.0.0.1:10079/p/0/proxy/https://fanmingming.com/txt?url=https://live.fanmingming.com/tv/m3u/ipv6.m3u",
@@ -795,7 +775,12 @@
 				"epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}",
 				"logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"
 			},
-			
+			{
+				"name": "YTLive",
+				"type": 0,
+				"playerType": 1,
+				"url": "./lib/yo21.txt"
+			},
 			{
 				"name": "直播",
 				"type": 0,
@@ -1004,10 +989,5 @@
 		],
 		"flags":["youku","qq","iqiyi","qiyi","letv","sohu","tudou","pptv","mgtv","wasu"],
 		"wallpaper": "http://饭太硬.top/深色壁纸/api.php",
-		"disabled_wallpaper":"http://www.kf666888.cn/api/tvbox/img",
-	 "ads": [
-    "static-mozai.4gtv.tv",
-    "s3t3d2y8.afcdn.net",
-  "4gtvfreepcvod-cds.cdn.hinet.net"
-  ]
+		"disabled_wallpaper":"http://www.kf666888.cn/api/tvbox/img"
 }

@@ -693,13 +693,10 @@
 				"playerType": 1,
 				"url": "./lib/yo22.txt"
 			},
-{
-				"name": "墙内YouTubeLive",
-				"type": 0,
-				"playerType": 1,
-				"ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
-                                "url": "./lib/yo21.txt"
-			},		
+
+			
+				
+					
   {
 "name":"台湾",
 

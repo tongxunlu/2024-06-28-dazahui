@@ -32,6 +32,11 @@ GTV DRAMA 八大劇樂部,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:1007
 三立華劇 SET Drama,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072|127.0.0.1:10071&url=https://www.youtube.com/watch?v=he_Zx7smZqk
 梦歌,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072|127.0.0.1:10071&url=https://www.youtube.com/watch?v=xG-md3G1ylk
 新聞,#genre#
+鳳凰資訊,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072|127.0.0.1:10071&url=https://www.youtube.com/live/HFib76ySpbU
+cctv4,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072|127.0.0.1:10071&url=https://www.youtube.com/watch?v=bEZYrBMYNNg
+環宇財經,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072|127.0.0.1:10071&url=https://www.youtube.com/live/25SE1bbTv9k
+
+
 台視新聞 TTV NEWS,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072|127.0.0.1:10071&url=https://www.youtube.com/watch?v=xL0ch83RAK8
 大愛電視 Tzu Chi DaAiVideo,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072|127.0.0.1:10071&url=https://www.youtube.com/watch?v=DTNkEm6jaqQ
 大愛電視 Tzu Chi DaAiVideo,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072|127.0.0.1:10071&url=https://www.youtube.com/watch?v=oV_i3Hsl_zg

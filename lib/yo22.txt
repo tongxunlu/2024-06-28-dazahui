@@ -31,7 +31,11 @@ GTV DRAMA 八大劇樂部,https://www.youtube.com/watch?v=hcxLMIfxi0A
 三立華劇 SET Drama,https://www.youtube.com/watch?v=XrLUbJJ3S2M
 三立華劇 SET Drama,https://www.youtube.com/watch?v=he_Zx7smZqk
 梦歌,https://www.youtube.com/watch?v=xG-md3G1ylk
-新聞,#genre#
+新聞,#genre#鳳凰資訊,https://www.youtube.com/live/HFib76ySpbU
+cctv4,https://www.youtube.com/watch?v=bEZYrBMYNNg
+環宇財經,https://www.youtube.com/live/25SE1bbTv9k
+
+
 台視新聞 TTV NEWS,https://www.youtube.com/watch?v=xL0ch83RAK8
 大愛電視 Tzu Chi DaAiVideo,https://www.youtube.com/watch?v=DTNkEm6jaqQ
 大愛電視 Tzu Chi DaAiVideo,https://www.youtube.com/watch?v=oV_i3Hsl_zg

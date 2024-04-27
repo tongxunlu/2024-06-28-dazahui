@@ -259,7 +259,12 @@
 			"ext":"https://www.duanjutv.icu"
 		},
 
-
+                {
+                        "key": "T4-tingshu",
+                        "name": "275听书",
+                        "type": 4,
+                        "api": "https://catbox.n13.club/275ts.php"
+                },
 
 
 		{

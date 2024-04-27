@@ -97,6 +97,8 @@
 			"key":"bookan_book_open",
 			"name":"博看[cat]",
 			"type":3,
+			"searchable": 1,
+			"changeable": 0,
 			"api":"./js/MyCatBookan.js"
 		},
 		{

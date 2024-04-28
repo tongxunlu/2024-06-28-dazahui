@@ -864,7 +864,7 @@
     
     {
       "name": "自用",
-      "url": "https://raw.githubusercontent.com/zzq12345/CatVodSpider/main/json/livetest.txt",
+      "url": "./livetest.txt",
       "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },

@@ -72,7 +72,13 @@
 				"经典片"
 			]
 		},
-	
+	        {
+			"key":"白嫖影视",
+			"name":"🔴白嫖影视",
+			"type":3,
+			"api":"csp_BaiPiao",
+			"jar":"https://www.baipiaoys.com:9092/tv/3366.jar"
+		},
 		{ 
 			"key":"csp_YingShi",
 			"name":"影视|海外",

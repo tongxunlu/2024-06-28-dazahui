@@ -3806,6 +3806,12 @@ http://127.0.0.1:8081/gongshi14.php
 http://127.0.0.1:8081/gongshinews.php
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube中文新闻",taiwanplus
 http://127.0.0.1:8081/taiwanplus.php
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube中文新闻",倪珍24小時播新聞
+
+http://127.0.0.1:8081/youtube.php?v=m4q2I8rz5TQ
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube中文新闻",倪珍24小時播新聞
+
+http://127.0.0.1:8081/youtube.php?v=ptsuKfjBoFo
 
 #EXTINF:-1 tvg-id="大愛電視台" tvg-name="大愛電視台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/daai.png" group-title="youtube中文新闻",大愛電視台
 http://127.0.0.1:8081/youtube.php?v=oV_i3Hsl_zg&t=0s

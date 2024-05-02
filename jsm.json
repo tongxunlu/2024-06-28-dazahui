@@ -1,29 +1,7 @@
 {
 	"spider":"./pg.jar",
 	"sites":[
-		{
-			"key": "豆瓣",
-			"name": "豆瓣",
-			"type": 3,
-			"api": "csp_Douban",
-			"searchable": 0,
-			"changeable": 1,
-			"indexs":1,
-			"ext": "./lib/douban.json"
-		},
-		{
-			"key": "网盘配置",
-			"name": "网盘及彈幕配置",
-			"type": 3,
-			"api": "csp_Config",
-			"searchable": 0,
-			"changeable": 0,
-			"ext":"./lib/tokenm.json"
-		},
-		{"key":"Local","name":"本地","type":3,"api":"csp_Local"},
-
-{ "key": "Ikanbot", "name": "爱看机器人", "type": 3, "api": "csp_Ikanbot", "searchable": 1, "quickSearch": 1, "filterable": 1, "changeable": 1 , "ext":"https://v.ikanbot.com$$$proxy"},
-
+		
 {
 			"key": "haiwaikan",
 			"name": "海外看",
@@ -91,6 +69,29 @@
 			"changeable": 0, 
 			"ext":"0$$$proxy" 
 		},
+		{
+			"key": "豆瓣",
+			"name": "豆瓣",
+			"type": 3,
+			"api": "csp_Douban",
+			"searchable": 0,
+			"changeable": 1,
+			"indexs":1,
+			"ext": "./lib/douban.json"
+		},
+		{
+			"key": "网盘配置",
+			"name": "网盘及彈幕配置",
+			"type": 3,
+			"api": "csp_Config",
+			"searchable": 0,
+			"changeable": 0,
+			"ext":"./lib/tokenm.json"
+		},
+		{"key":"Local","name":"本地","type":3,"api":"csp_Local"},
+
+{ "key": "Ikanbot", "name": "爱看机器人", "type": 3, "api": "csp_Ikanbot", "searchable": 1, "quickSearch": 1, "filterable": 1, "changeable": 1 , "ext":"https://v.ikanbot.com$$$proxy"},
+
 		{
 			"key": "星星",
 			"name": "星星 | 海外",

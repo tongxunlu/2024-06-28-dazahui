@@ -1001,10 +1001,11 @@
 			"searchable": 0,
 			"changeable": 0,
 			"ext": "https://fm.t4tv.hz.cz/json/market.json"
-		}],
+		}
+	],
 		"lives":[
 
-{
+        {
 				"name": "墙外YouTubeLive",
 				"type": 0,
 				"playerType": 1,

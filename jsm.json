@@ -5,13 +5,12 @@
                        {
 				"name": "墙外YouTubeLive",
 				 "type": 0,
-				
-  "playerType": 1,
-  "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36", 
+	                         "playerType": 1,
+                                 "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36", 
 				"url": "./lib/yo22.txt"
 			},
 
-	{
+	                {
 				"name": "印尼",
 				"type": 0,
 				"playerType": 1,
@@ -19,28 +18,24 @@
 			},		
 				
 					
-  {
-"name":"台湾",
-
-"url":"https://epg.pw/test_channels_taiwan.txt",
-   "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
-    },
+                       {
+                       "name":"台湾",
+                       "url":"https://epg.pw/test_channels_taiwan.txt",
+                       "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
+                       "logo": "https://epg.112114.xyz/logo/{name}.png"
+                       },
  
-{
-"name":"国内频道直播",
-
-"url":"./guoneizhibo.txt",
-"type": 0,
-"playerType": 1,
-				  
-   "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
+                      {
+                      "name":"国内频道直播",
+                      "url":"./guoneizhibo.txt",
+                      "type": 0,
+                       "playerType": 1,
+                       "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
 {
   "name":"4gtv",
   "type": 0,
-				
   "playerType": 1,
   "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",                              
 "url":"https://raw.githubusercontent.com/zzq12345/CatVodSpider/main/json/4gtv.m3u",
@@ -155,7 +150,7 @@
 		],
 	"sites":[
 		
-{
+                      {
 			"key": "haiwaikan",
 			"name": "海外看",
 			"type": 1,
@@ -356,7 +351,6 @@
 			"name": "非凡",
 			"type": 1,
 			"api": "http://127.0.0.1:10079/p/0/proxy/http://cj.ffzyapi.com/api.php/provide/vod/?",
-			
 			"playerType":1,
 			"searchable": 1,
 			"changeable": 1,
@@ -910,26 +904,55 @@
 			"searchable": 1,
 			"quickSearch": 1
 		},
-		{"key":"drpy_js_愛盤搜","name":"爱盘搜[js]|夸","type":3,"api":"./lib/drpy2.min.js","ext":"./js/aipanso.js", "quickSearch":1, "changeable":1, "timeout":60,
+		{"key":"drpy_js_愛盤搜",
+			"name":"爱盘搜[js]|夸",
+			"type":3,
+			"api":"./lib/drpy2.min.js",
+			"ext":"./js/aipanso.js",
+			"quickSearch":1, "changeable":1, 
+			"timeout":60,
 			"style": {
 				"type": "list",
 				"ratio": 1.1
-			}
+			          }
 		},
-		{"key":"drpy_js_人人影视","name":"人人影视[js]|搜","type":3,"api":"./lib/drpy2.min.js","ext":"./js/yyets.js", "quickSearch":1, "changeable":1, "timeout":60,
+		{
+			"key":"drpy_js_人人影视",
+			"name":"人人影视[js]|搜",
+			"type":3,
+			"api":"./lib/drpy2.min.js",
+			"ext":"./js/yyets.js",
+			"quickSearch":1, 
+			"changeable":1, 
+			"timeout":60,
 			"style": {
 				"type": "list",
 				"ratio": 1.1
 			}
 		},
 		{"key":"drpy_js_MP4US","name":"MP4电影[js]|磁","type":3,"api":"./lib/drpy2.min.js","ext":"./js/mp4us.js", "quickSearch":1, "changeable":1, "timeout":60},
-		{"key":"4KHDR","name":"4KHDR|网盘","type":3,"api":"csp_FourKHDR","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"./lib/tokenm.json$$$./lib/4khdr.txt$$$1",
+		{
+			"key":"4KHDR",
+			"name":"4KHDR|网盘",
+			"type":3,
+			"api":"csp_FourKHDR",
+			"quickSearch":1,
+			"changeable":1, 
+			"filterable":1, 
+			"timeout":60,
+			"ext":"./lib/tokenm.json$$$./lib/4khdr.txt$$$1",
 			"style": {
 				"type": "list",
 				"ratio": 1.1
 			}
 		},
-		{"key":"UP云搜","name":"阿里|UP云搜","type":3,"api":"csp_UpYun","timeout":30, "ext":"./lib/tokenm.json",
+		{
+			"key":"UP云搜",
+			"name":"阿里|UP云搜",
+			"type":3,
+			"api":"csp_UpYun",
+			"timeout":30, 
+			"ext":"./lib/tokenm.json",
 			"style": {
 				"type": "list",
 				"ratio": 1.1
@@ -1170,7 +1193,16 @@
 			"changeable": 1,
 			"ext":"https://www.duanjutv.icu"
 		},
-		{"key":"drpy_js_Alist","name":"网盘 | Alist[js]","type":3,"api":"./lib/alist.min.js","searchable":1,"filterable":1,"changeable":1,"ext":"./js/alist.json"},
+		{
+			"key":"drpy_js_Alist",
+			"name":"网盘 | Alist[js]",
+			"type":3,
+			"api":"./lib/alist.min.js",
+			"searchable":1,
+			"filterable":1,
+			"changeable":1,
+			"ext":"./js/alist.json"
+		},
 		{
 			"key":"MV_vod",
 			"name":"电视┃MTV",
@@ -1213,8 +1245,8 @@
 			"searchable": 0,
 			"changeable": 0,
 			"ext": "https://fm.t4tv.hz.cz/json/market.json"
-		}
-	],
+		},
+	
 		
 		"doh": [
 			{
@@ -1375,7 +1407,8 @@
 			{"name":"FreeOK","type":0,"url":"https://play.86516.tk/OKPlayer/?url="},
 			{"name":"free","type":0,"url":"https://h5.freejson.xyz/player/?url="}
 		],
-		"flags":["youku","qq","iqiyi","qiyi","letv","sohu","tudou","pptv","mgtv","wasu"],
+		"flags":["youku","qq","iqiyi","qiyi","letv","sohu","tudou","pptv","mgtv","wasu"]
+	],
 		"wallpaper": "http://饭太硬.top/深色壁纸/api.php",
 		"disabled_wallpaper":"http://www.kf666888.cn/api/tvbox/img"
 }

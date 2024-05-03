@@ -2,9 +2,9 @@
   "spider": "./pg.jar", 
   "lives": [
 	{
-"name":"youtubelive",
+"name":"youtubelive墙外",
 
-"url":"./youtubelive.txt",
+"url":"/lib/yo22.txt",
 "type": 0,
 "playerType": 1,
    "epg": "https://epg.112114.xyz/?ch={name}&date={date}",

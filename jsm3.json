@@ -1053,8 +1053,7 @@
 			{"name":"看看","type":0,"url":"https://jx.m3u8.pw/?url="},
 			{"name":"FreeOK","type":0,"url":"https://play.86516.tk/OKPlayer/?url="},
 			{"name":"free","type":0,"url":"https://h5.freejson.xyz/player/?url="}
-		"flags":[
-			"youku","qq","iqiyi","qiyi","letv","sohu","tudou","pptv","mgtv","wasu"]
+		"flags":["youku","qq","iqiyi","qiyi","letv","sohu","tudou","pptv","mgtv","wasu"]
 		         ],
 			"wallpaper": "http://饭太硬.top/深色壁纸/api.php",
 		"disabled_wallpaper":"http://www.kf666888.cn/api/tvbox/img"

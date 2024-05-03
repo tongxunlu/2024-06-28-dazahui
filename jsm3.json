@@ -1,6 +1,218 @@
 {
 	"spider":"./pg.jar",
 	"sites":[
+		{ "key": "Ikanbot", "name": "爱看机器人", "type": 3, "api": "csp_Ikanbot", "searchable": 1, "quickSearch": 1, "filterable": 1, "changeable": 1 , "ext":"https://v.ikanbot.com$$$proxy"},
+		{ "key":"csp_YingShi","name":"影视|海外","type":3,"api":"csp_YingShi","ext":"proxy"},
+		{ 
+			"key": "泥巴", 
+			"name": "泥巴 | 海外", 
+			"type": 3, 
+			"api": "csp_NiNi", 
+			"searchable": 1, 
+			"filterable": 1, 
+			"changeable": 0, 
+			"ext":"0$$$proxy" 
+		},
+		{
+			"key": "星星",
+			"name": "星星 | 海外",
+			"type": 3,
+			"api": "csp_Star",
+			"searchable": 1,
+			"changeable": 0,
+			"ext":"proxy"
+		},
+		{
+			"key": "獨播",
+			"name": "獨播 | 海外",
+			"type": 3,
+			"api": "csp_XPathMacFilter",
+			"searchable": 1,
+			"changeable": 0,
+			"ext": "./lib/duboku.json$$$proxy"
+		},
+		{
+			"key": "haiwaikan",
+			"name": "海外看",
+			"type": 1,
+			"api": "http://127.0.0.1:10079/p/0/proxy/https://haiwaikan.com/api.php/provide/vod?",
+			"playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=proxy&url=",
+			"searchable": 1,
+			"changeable": 1,
+			"categories": [
+				"日本动漫",
+				"国产动漫",
+				"欧美动漫",
+				"国产剧",
+				"韩剧",
+				"日剧",
+				"台剧",
+				"泰剧",
+				"港剧",
+				"欧美剧",
+				"动画电影",
+				"韩国综艺",
+				"国产综艺",
+				"日本综艺",
+				"欧美综艺",
+				"冒险片",
+				"剧情片",
+				"动作片",
+				"同性片",
+				"喜剧片",
+				"奇幻片",
+				"恐怖片",
+				"悬疑片",
+				"惊悚片",
+				"战争片",
+				"歌舞片",
+				"灾难片",
+				"爱情片",
+				"犯罪片",
+				"科幻片",
+				"纪录片",
+				"经典片"
+			]
+		},
+		{
+			"key": "ikun",
+			"name": "ikun",
+			"type": 1,
+			"api": "http://127.0.0.1:10079/p/0/proxy/https://ikunzyapi.com/api.php/provide/vod/?",
+			"playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=proxy&url=",
+			"playerType":1,
+			"searchable": 1,
+			"changeable": 1
+		},
+		{
+			"key": "飞速资源",
+			"name": "飞速资源",
+			"type": 1,
+			"api": "http://127.0.0.1:10079/p/0/proxy/http://fszy1.com/api.php/provide/vod/?",
+			"playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=proxy&url=",
+			"playerType":1,
+			"searchable": 1,
+			"changeable": 1
+		},
+		{
+			"key": "暴風",
+			"name": "暴風",
+			"type": 1,
+			"api": "http://127.0.0.1:10079/p/0/proxy/https://bfzyapi.com/api.php/provide/vod?",
+			"playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=proxy&url=",
+			"searchable": 1,
+			"changeable": 1
+		},
+		{
+			"key": "索尼",
+			"name": "索尼 ",
+			"type": 1,
+			"api": "http://127.0.0.1:10079/p/0/proxy/https://suoniapi.com/api.php/provide/vod?",
+			"playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=proxy&url=",
+			"searchable": 1,
+			"changeable": 1
+		},
+		{
+			"key": "快帆",
+			"name": "快帆",
+			"type": 1,
+			"api": "http://127.0.0.1:10079/p/0/proxy/https://api.kuaifan.tv/api.php/provide/vod?",
+			"playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=proxy&url=",
+			"searchable": 1,
+			"changeable": 1
+		},
+		{
+			"key": "量子",
+			"name": "量子",
+			"type": 1,
+			"api": "http://127.0.0.1:10079/p/0/proxy/http://cj.lziapi.com/api.php/provide/vod/?",
+			"playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=proxy&url=",
+			"playerType":1,
+			"searchable": 1,
+			"changeable": 1
+		},
+		{
+			"key": "非凡",
+			"name": "非凡",
+			"type": 1,
+			"api": "http://127.0.0.1:10079/p/0/proxy/http://cj.ffzyapi.com/api.php/provide/vod/?",
+			"playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=proxy&url=",
+			"playerType":1,
+			"searchable": 1,
+			"changeable": 1,
+			"categories": [
+				"国产动漫",
+				"日韩动漫",
+				"国产剧",
+				"韩国剧",
+				"日本剧",
+				"电影片",
+				"连续剧",
+				"综艺片",
+				"动漫片",
+				"动作片",
+				"喜剧片",
+				"爱情片",
+				"科幻片",
+				"恐怖片",
+				"剧情片",
+				"战争片",
+				"香港剧",
+				"欧美剧",
+				"记录片",
+				"台湾剧",
+				"海外剧",
+				"泰国剧",
+				"大陆综艺",
+				"港台综艺",
+				"日韩综艺",
+				"欧美综艺",
+				"欧美动漫",
+				"港台动漫",
+				"海外动漫"
+			]
+		},
+		{
+			"key": "櫻花",
+			"name": "櫻花",
+			"type": 3,
+			"api": "csp_Ying",
+			"searchable": 1,
+			"changeable": 0
+		},
+		{
+			"key": "巴士",
+			"name": "巴士",
+			"type": 3,
+			"api": "csp_Dm84",
+			"searchable": 1,
+			"changeable": 0
+		},
+		{
+			"key": "異界",
+			"name": "異界",
+			"type": 3,
+			"api": "csp_Ysj",
+			"searchable": 1,
+			"changeable": 0
+		},
+		{
+			"key": "愛看",
+			"name": "愛看",
+			"type": 3,
+			"api": "./js/ikanbot_open.js",
+			"searchable": 1,
+			"changeable": 0
+		},
+		{
+			"key": "短剧",
+			"name": "短剧",
+			"type": 3,
+			"api": "csp_Duanju",
+			"searchable": 0,
+			"changeable": 1,
+			"ext":"https://www.duanjutv.icu"
+		},
 		{
 			"key": "豆瓣",
 			"name": "豆瓣",
@@ -497,218 +709,7 @@
 			"changeable": 0,
 			"filterable": 1
 		},
-		{ "key": "Ikanbot", "name": "爱看机器人", "type": 3, "api": "csp_Ikanbot", "searchable": 1, "quickSearch": 1, "filterable": 1, "changeable": 1 , "ext":"https://v.ikanbot.com$$$proxy"},
-		{ "key":"csp_YingShi","name":"影视|海外","type":3,"api":"csp_YingShi","ext":"proxy"},
-		{ 
-			"key": "泥巴", 
-			"name": "泥巴 | 海外", 
-			"type": 3, 
-			"api": "csp_NiNi", 
-			"searchable": 1, 
-			"filterable": 1, 
-			"changeable": 0, 
-			"ext":"0$$$proxy" 
-		},
-		{
-			"key": "星星",
-			"name": "星星 | 海外",
-			"type": 3,
-			"api": "csp_Star",
-			"searchable": 1,
-			"changeable": 0,
-			"ext":"proxy"
-		},
-		{
-			"key": "獨播",
-			"name": "獨播 | 海外",
-			"type": 3,
-			"api": "csp_XPathMacFilter",
-			"searchable": 1,
-			"changeable": 0,
-			"ext": "./lib/duboku.json$$$proxy"
-		},
-		{
-			"key": "haiwaikan",
-			"name": "海外看",
-			"type": 1,
-			"api": "http://127.0.0.1:10079/p/0/proxy/https://haiwaikan.com/api.php/provide/vod?",
-			"playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=proxy&url=",
-			"searchable": 1,
-			"changeable": 1,
-			"categories": [
-				"日本动漫",
-				"国产动漫",
-				"欧美动漫",
-				"国产剧",
-				"韩剧",
-				"日剧",
-				"台剧",
-				"泰剧",
-				"港剧",
-				"欧美剧",
-				"动画电影",
-				"韩国综艺",
-				"国产综艺",
-				"日本综艺",
-				"欧美综艺",
-				"冒险片",
-				"剧情片",
-				"动作片",
-				"同性片",
-				"喜剧片",
-				"奇幻片",
-				"恐怖片",
-				"悬疑片",
-				"惊悚片",
-				"战争片",
-				"歌舞片",
-				"灾难片",
-				"爱情片",
-				"犯罪片",
-				"科幻片",
-				"纪录片",
-				"经典片"
-			]
-		},
-		{
-			"key": "ikun",
-			"name": "ikun",
-			"type": 1,
-			"api": "http://127.0.0.1:10079/p/0/proxy/https://ikunzyapi.com/api.php/provide/vod/?",
-			"playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=proxy&url=",
-			"playerType":1,
-			"searchable": 1,
-			"changeable": 1
-		},
-		{
-			"key": "飞速资源",
-			"name": "飞速资源",
-			"type": 1,
-			"api": "http://127.0.0.1:10079/p/0/proxy/http://fszy1.com/api.php/provide/vod/?",
-			"playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=proxy&url=",
-			"playerType":1,
-			"searchable": 1,
-			"changeable": 1
-		},
-		{
-			"key": "暴風",
-			"name": "暴風",
-			"type": 1,
-			"api": "http://127.0.0.1:10079/p/0/proxy/https://bfzyapi.com/api.php/provide/vod?",
-			"playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=proxy&url=",
-			"searchable": 1,
-			"changeable": 1
-		},
-		{
-			"key": "索尼",
-			"name": "索尼 ",
-			"type": 1,
-			"api": "http://127.0.0.1:10079/p/0/proxy/https://suoniapi.com/api.php/provide/vod?",
-			"playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=proxy&url=",
-			"searchable": 1,
-			"changeable": 1
-		},
-		{
-			"key": "快帆",
-			"name": "快帆",
-			"type": 1,
-			"api": "http://127.0.0.1:10079/p/0/proxy/https://api.kuaifan.tv/api.php/provide/vod?",
-			"playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=proxy&url=",
-			"searchable": 1,
-			"changeable": 1
-		},
-		{
-			"key": "量子",
-			"name": "量子",
-			"type": 1,
-			"api": "http://127.0.0.1:10079/p/0/proxy/http://cj.lziapi.com/api.php/provide/vod/?",
-			"playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=proxy&url=",
-			"playerType":1,
-			"searchable": 1,
-			"changeable": 1
-		},
-		{
-			"key": "非凡",
-			"name": "非凡",
-			"type": 1,
-			"api": "http://127.0.0.1:10079/p/0/proxy/http://cj.ffzyapi.com/api.php/provide/vod/?",
-			"playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=proxy&url=",
-			"playerType":1,
-			"searchable": 1,
-			"changeable": 1,
-			"categories": [
-				"国产动漫",
-				"日韩动漫",
-				"国产剧",
-				"韩国剧",
-				"日本剧",
-				"电影片",
-				"连续剧",
-				"综艺片",
-				"动漫片",
-				"动作片",
-				"喜剧片",
-				"爱情片",
-				"科幻片",
-				"恐怖片",
-				"剧情片",
-				"战争片",
-				"香港剧",
-				"欧美剧",
-				"记录片",
-				"台湾剧",
-				"海外剧",
-				"泰国剧",
-				"大陆综艺",
-				"港台综艺",
-				"日韩综艺",
-				"欧美综艺",
-				"欧美动漫",
-				"港台动漫",
-				"海外动漫"
-			]
-		},
-		{
-			"key": "櫻花",
-			"name": "櫻花",
-			"type": 3,
-			"api": "csp_Ying",
-			"searchable": 1,
-			"changeable": 0
-		},
-		{
-			"key": "巴士",
-			"name": "巴士",
-			"type": 3,
-			"api": "csp_Dm84",
-			"searchable": 1,
-			"changeable": 0
-		},
-		{
-			"key": "異界",
-			"name": "異界",
-			"type": 3,
-			"api": "csp_Ysj",
-			"searchable": 1,
-			"changeable": 0
-		},
-		{
-			"key": "愛看",
-			"name": "愛看",
-			"type": 3,
-			"api": "./js/ikanbot_open.js",
-			"searchable": 1,
-			"changeable": 0
-		},
-		{
-			"key": "短剧",
-			"name": "短剧",
-			"type": 3,
-			"api": "csp_Duanju",
-			"searchable": 0,
-			"changeable": 1,
-			"ext":"https://www.duanjutv.icu"
-		},
+		
 		{"key":"drpy_js_Alist","name":"网盘 | Alist[js]","type":3,"api":"./lib/alist.min.js","searchable":1,"filterable":1,"changeable":1,"ext":"./js/alist.json"},
 		{
 			"key":"MV_vod",
@@ -755,6 +756,62 @@
 		}
                                 ],
 		"lives":[
+			 {
+				"name": "墙外YouTubeLive",
+				 "type": 0,
+	                         "playerType": 1,
+                                 "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36", 
+				"url": "./lib/yo22.txt"
+			},
+
+	                {
+				"name": "印尼",
+				"type": 0,
+				"playerType": 1,
+				"url": "./yinni.m3u"
+			},		
+
+
+                       {
+                       "name":"台湾",
+                       "url":"https://epg.pw/test_channels_taiwan.txt",
+                       "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
+                       "logo": "https://epg.112114.xyz/logo/{name}.png"
+                       },
+
+                      {
+                      "name":"国内频道直播",
+                      "url":"./guoneizhibo.txt",
+                      "type": 0,
+                       "playerType": 1,
+                       "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+                         },
+                  {
+                "name":"4gtv",
+                "type": 0,
+                 "playerType": 1,
+                 "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",                              
+         "url":"https://raw.githubusercontent.com/zzq12345/CatVodSpider/main/json/4gtv.m3u",
+  "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+},
+
+    {
+      "name": "自用",
+      "url": "./livetest.txt",
+      "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+
+
+{
+            "name": "央视频",
+            "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+            "type": 0,
+            "url": "./嗅探.m3u"
+},
+
 			{
 				"name": "live.ipv6",
 				"type": 0,

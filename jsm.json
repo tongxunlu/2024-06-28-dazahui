@@ -1005,10 +1005,9 @@
 	],
 		"lives":[
 
-        {
+                       {
 				"name": "墙外YouTubeLive",
-				"type": 0,
-				"playerType": 1,
+				
 				"url": "./lib/yo22.txt"
 			},
 

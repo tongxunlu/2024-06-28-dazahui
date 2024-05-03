@@ -3218,6 +3218,7 @@ CCTV-第一剧场,http://127.0.0.1:8081/ysp-dec.php?id=dyjc
 榕江发布,http://127.0.0.1:8081/douyin.php?id=86750932176
 抖音演出,http://127.0.0.1:8081/douyin.php?id=802975310822
 湖南经济,http://127.0.0.1:8081/douyin1.php?id=301788940262
+雪梨阿雪梨,http://127.0.0.1:8081/douyin.php?id=66070580592
 cctv1,http://127.0.0.1:8081/douyin.php?id=456815963645
 cctv4,http://127.0.0.1:8081/douyin.php?id=166806983360
 东方甄选,http://127.0.0.1:8081/douyin.php?id=80017709309

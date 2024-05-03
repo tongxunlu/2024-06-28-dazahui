@@ -764,7 +764,8 @@ http://127.0.0.1:8081/douyin.php?id=608487415455
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="抖音直播",贵阳路边音乐
 http://127.0.0.1:8081/douyin.php?id=82078520952
 
-
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="抖音直播",雪梨阿雪梨
+http://127.0.0.1:8081/douyin.php?id=66070580592
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="抖音直播",逐日 Live
 http://127.0.0.1:8081/douyin.php?id=638569076539
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="抖音直播",歌手晋瑶

@@ -750,6 +750,10 @@ http://192.168.10.250/douyin.php?id=962535210669
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="抖音直播",粤语晴天
 http://192.168.10.250/douyin.php?id=962535210669
 
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="抖音直播",榕江发布
+http://192.168.10.250/douyin.php?id=86750932176
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="抖音直播",抖音演出
+http://192.168.10.250/douyin.php?id=802975310822
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="抖音直播",左右手乐队
 http://192.168.10.250/douyin.php?id=772100181492
@@ -4828,7 +4832,7 @@ http://192.168.10.250/4gtv720.php?id=6
 #EXTINF:-1 tvg-id="4gtv-4gtv041" tvg-name="華視" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv041_mobile.png" group-title="4gtv",華視
 http://192.168.10.250/4gtv720.php?id=7
 #EXTINF:-1 tvg-id="4gtv-live207" tvg-name="三立綜合台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live207_mobile.png" group-title="4gtv",三立綜合台
-http://192.168.10.250/4gtv7201.php?id=8
+http://192.168.10.250/4gtv10801.php?id=8
 #EXTINF:-1 tvg-id="4gtv-4gtv043" tvg-name="客家電視台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv043_mobile.png" group-title="4gtv",客家電視台
 http://192.168.10.250/4gtv720.php?id=9
 #EXTINF:-1 tvg-id="4gtv-4gtv039" tvg-name="八大綜藝台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv039_mobile.png" group-title="4gtv",八大綜藝台
@@ -4844,7 +4848,7 @@ http://192.168.10.250/4gtv720.php?id=14
 #EXTINF:-1 tvg-id="4gtv-4gtv047" tvg-name="靖天日本台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv047_mobile.png" group-title="4gtv",靖天日本台
 http://192.168.10.250/4gtv720.php?id=15
 #EXTINF:-1 tvg-id="4gtv-live050" tvg-name="新唐人亞太台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live050_mobile.png" group-title="4gtv",新唐人亞太台
-http://192.168.10.250/4gtv1080.php?id=16
+http://192.168.10.250/4gtv10801.php?id=16
 
 #EXTINF:-1 tvg-id="4gtv-4gtv079" tvg-name="ARIRANG阿里郎頻道" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv079_1_mobile.png" group-title="4gtv",ARIRANG阿里郎頻道
 http://192.168.10.250/4gtv720.php?id=17
@@ -4882,17 +4886,17 @@ http://192.168.10.250/4gtv1080.php?id=31
 #EXTINF:-1 tvg-id="4gtv-4gtv075" tvg-name="鏡電視新聞台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv075_mobile.png" group-title="4gtv",鏡電視新聞台
 http://192.168.10.250/4gtv720.php?id=32
 #EXTINF:-1 tvg-id="4gtv-live114" tvg-name="東森新聞台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live114_mobile.png" group-title="4gtv",東森新聞台
-http://192.168.10.250/4gtv1080.php?id=33
+http://192.168.10.250/4gtv720.php?id=33
 #EXTINF:-1 tvg-id="4gtv-4gtv052" tvg-name="華視新聞" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv052_mobile.png" group-title="4gtv",華視新聞
 http://192.168.10.250/4gtv720.php?id=34
 #EXTINF:-1 tvg-id="litv-ftv13" tvg-name="民視新聞台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-ftv13_mobile.png" group-title="4gtv",民視新聞台
 http://192.168.10.250/4gtv720.php?id=35
 #EXTINF:-1 tvg-id="4gtv-live089" tvg-name="三立新聞iNEWS" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live089_mobile.png" group-title="4gtv",三立新聞iNEWS
-http://192.168.10.250/4gtv7201.php?id=36
+http://192.168.10.250/4gtv1080.php?id=36
 #EXTINF:-1 tvg-id="4gtv-live072" tvg-name="TVBS新聞" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live072_mobile.png" group-title="4gtv",TVBS新聞
-http://192.168.10.250/4gtv1080.php?id=37
+http://192.168.10.250/4gtv720.php?id=37
 #EXTINF:-1 tvg-id="4gtv-live019" tvg-name="東森財經新聞台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live019_mobile.png" group-title="4gtv",東森財經新聞台
-http://192.168.10.250/4gtv1080.php?id=38
+http://192.168.10.250/4gtv720.php?id=38
 #EXTINF:-1 tvg-id="4gtv-4gtv074" tvg-name="中視新聞" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv074_mobile.png" group-title="4gtv",中視新聞
 http://192.168.10.250/4gtv720.php?id=39
 #EXTINF:-1 tvg-id="4gtv-4gtv009" tvg-name="中天新聞台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv009_mobile.png" group-title="4gtv",中天新聞台

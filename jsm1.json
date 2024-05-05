@@ -131,7 +131,15 @@
     },
 
   {"key":"白嫖影视","name":"🔴白嫖影视","type":3,"api":"csp_BaiPiao","jar":"./3366.jar"},
-
+        {
+                "key": "侠客影视",
+                "name": "侠客┃CSP",
+                "type": 1,
+                "api": "http://1.xkys.link/api.php/tvbox",
+                "searchable": 1,
+                "changeable": 1,
+                "filterable": 0
+        },
 { "key":"csp_YingShi","name":"影视|海外","type":3,"api":"csp_YingShi","ext":""},
 		{ 
 			"key": "泥巴", 

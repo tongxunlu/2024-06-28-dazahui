@@ -292,6 +292,24 @@
 			"changeable": 0,
 			"ext": "./lib/duboku.json$$$proxy"
 		},
+
+     {
+      "key": "忘川影视",
+      "name": "🌾忘川影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+     
+      "ext": {
+        "分类url": "https://www.wcys8.com/{cateId}_rankhot_{class}_{area}_{year}__{catePg}_{catePg}.html",
+        "分类": "电视剧$teleplay#电影$film",
+"线路数组":"data-toggle=&&</li>",
+"播放数组":"stui-content__playlist&&</ul>",
+"播放标题":"p_name=\"&&\"",
+"播放链接":"onclick=\"&&\"",
+"解析":"默认$https://jx.jsonplayer.com/player/?url="
+      }
+    },        
+		
 		{"key":"123影视","name":"123影视","type":3,"api":"csp_XBPQ","ext":{"简介":"小林子为您剧情介绍: +video-info-content vod_content\">&&</div>","线路数组":"module-tab-item tab-item\" data-dropdown-value=&&</div>","分类url":"https://www.idc123.xyz/vodshow/area/{area}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html","分类":"电影$dy#国产剧$guochanju#电视剧$juji#动漫$dongman#综艺$zongyi"}},
 		{
 			"key": "ikun",

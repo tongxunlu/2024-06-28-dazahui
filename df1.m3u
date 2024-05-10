@@ -137,145 +137,17 @@ http://127.0.0.1:8081/ysp.php?id=tjws
 #EXTINF:-1 tvg-id="800060" tvg-name="新疆卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xinjiang.png" group-title="央视频",新疆卫视
 http://127.0.0.1:8081/ysp.php?id=xjws
 #EXTINF:-1 tvg-id="800063" tvg-name="兵团卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/bingtuan.png" group-title="央视频",兵团卫视
+http://127.0.0.1:8081/ysp.php?id=btws
+#EXTINF:-1 tvg-id="800062" tvg-name="中国教育1台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育1台.png" group-title="央视频",中国教育电视台-1
+http://127.0.0.1:8081/ysp.php?id=cetv-1
+#EXTINF:-1 tvg-id="800063" tvg-name="兵团卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/bingtuan.png" group-title="央视频",兵团卫视
+
 http://mobilelive-timeshift.ysp.cctv.cn/timeshift/ysp/2022606701/timeshift.m3u8?delay=0&cdn=5202
 #EXTINF:-1 tvg-id="800062" tvg-name="中国教育1台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育1台.png" group-title="央视频",中国教育电视台-1
 http://mobilelive-timeshift.ysp.cctv.cn/timeshift/ysp/2022823801/timeshift.m3u8?delay=0&cdn=5202
 
 
-#EXTINF:-1 tvg-id="cctv8k" tvg-name="cctv8k " tvg-logo="https://bkimg.cdn.bcebos.com/pic/6f061d950a7b02087bf4792df48be5d3572c10df62e6?x-bce-process=image/resize,m_lfit,w_536,limit_1/quality,Q_70" group-title="央视频",cctv8k
-http://127.0.0.1:8081/ysp-dec.php?id=cctv8k
-#EXTINF:-1 tvg-id="cctv8k" tvg-name="cctv8k " tvg-logo="https://bkimg.cdn.bcebos.com/pic/6f061d950a7b02087bf4792df48be5d3572c10df62e6?x-bce-process=image/resize,m_lfit,w_536,limit_1/quality,Q_70" group-title="央视频",cctv8k
-http://127.0.0.1:8081/ysp-dec.php?id=cctv8k1
-#EXTINF:-1 tvg-id="800000" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视频",CCTV1综合
-http://127.0.0.1:8081/ysp-dec.php?id=cctv1
-#EXTINF:-1 tvg-id="800001" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="央视频",CCTV2财经
-http://127.0.0.1:8081/ysp-dec.php?id=cctv2
-#EXTINF:-1 tvg-id="800002" tvg-name="CCTV3" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" group-title="央视频",CCTV3综艺
-http://127.0.0.1:8081/ysp-dec.php?id=cctv3
-#EXTINF:-1 tvg-id="800003" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="央视频",CCTV4中文国际
-http://127.0.0.1:8081/ysp-dec.php?id=cctv4
-#EXTINF:-1 tvg-id="800004" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="央视频",CCTV5体育
-http://127.0.0.1:8081/ysp-dec.php?id=cctv5
-#EXTINF:-1 tvg-id="800005" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="央视频",CCTV5+体育赛事
-http://127.0.0.1:8081/ysp-dec.php?id=cctv5p
-#EXTINF:-1 tvg-id="800006" tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="央视频",CCTV6电影
-http://127.0.0.1:8081/ysp-dec.php?id=cctv6
 
-#EXTINF:-1 tvg-id="800007" tvg-name="CCTV7" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png" group-title="央视频",CCTV7国防军事
-http://127.0.0.1:8081/ysp-dec.php?id=cctv7
-#EXTINF:-1 tvg-id="800008" tvg-name="CCTV8" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" group-title="央视频",CCTV8电视剧
-http://127.0.0.1:8081/ysp-dec.php?id=cctv8
-#EXTINF:-1 tvg-id="800009" tvg-name="CCTV9" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png" group-title="央视频",CCTV9纪录
-http://127.0.0.1:8081/ysp-dec.php?id=cctv9
-#EXTINF:-1 tvg-id="800010" tvg-name="CCTV10" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png" group-title="央视频",CCTV10科教
-http://127.0.0.1:8081/ysp-dec.php?id=cctv10
-#EXTINF:-1 tvg-id="800011" tvg-name="CCTV11" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV11.png" group-title="央视频",CCTV11戏曲
-http://127.0.0.1:8081/ysp-dec.php?id=cctv11
-#EXTINF:-1 tvg-id="800012" tvg-name="CCTV12" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png" group-title="央视频",CCTV12社会与法
-http://127.0.0.1:8081/ysp-dec.php?id=cctv12
-#EXTINF:-1 tvg-id="800013" tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="央视频",CCTV13新闻
-http://127.0.0.1:8081/ysp-dec.php?id=cctv13
-#EXTINF:-1 tvg-id="800014" tvg-name="CCTV14" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" group-title="央视频",CCTV14少儿
-http://127.0.0.1:8081/ysp-dec.php?id=cctv14
-#EXTINF:-1 tvg-id="800015" tvg-name="CCTV15" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" group-title="央视频",CCTV15音乐
-http://127.0.0.1:8081/ysp-dec.php?id=cctv15
-#EXTINF:-1 tvg-id="800016" tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="央视频",CCTV-16高清
-http://127.0.0.1:8081/ysp-dec.php?id=cctv16
-#EXTINF:-1 tvg-id="800016" tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="央视频",CCTV-16高清
-http://127.0.0.1:8081/ysp-dec.php?id=cctv16-4k
-#EXTINF:-1 tvg-id="800017" tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="央视频",CCTV17农村农业
-http://127.0.0.1:8081/ysp-dec.php?id=cctv17
-#EXTINF:-1 tvg-id="800018" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="央视频",cctv4k
-http://127.0.0.1:8081/ysp-dec.php?id=cctv4k
-#EXTINF:-1 tvg-id="cgtn" tvg-name="cgtn" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="央视频",cgtn
-http://127.0.0.1:8081/ysp-dec.php?id=cgtn
-
-
-
-
-#EXTINF:-1 tvg-id="cgtn英文记录片" tvg-name="cgtn英文记录片" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="央视频",cgtn英文记录片
-http://127.0.0.1:8081/ysp-dec.php?id=cgtnjl
-#EXTINF:-1 tvg-id="cgtn法语" tvg-name="cgtn法语" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="央视频",cgtn法语
-http://127.0.0.1:8081/ysp-dec.php?id=cgtnf
-#EXTINF:-1 tvg-id="cgtn俄语" tvg-name="cgtn俄语" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="央视频",cgtn俄语
-http://127.0.0.1:8081/ysp-dec.php?id=cgtnr
-#EXTINF:-1 tvg-id="cgtn阿拉伯语" tvg-name="cgtn阿拉伯语" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="央视频",cgtn阿拉伯
-http://127.0.0.1:8081/ysp-dec.php?id=cgtna
-#EXTINF:-1 tvg-id="cgtn西班牙语" tvg-name="cgtn西班牙语" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="央视频",cgtn西班牙语
-http://127.0.0.1:8081/ysp-dec.php?id=cgtne
-#EXTINF:-1 tvg-id="800021" tvg-name="怀旧剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE7.jpg" group-title="央视频",CCTV-怀旧剧场
-http://127.0.0.1:8081/ysp-dec.php?id=hjjc
-#EXTINF:-1 tvg-id="800026" tvg-name="高尔夫网球" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE13.jpg" group-title="央视频",CCTV-高尔夫网球
-http://127.0.0.1:8081/ysp-dec.php?id=gefwq
-#EXTINF:-1 tvg-id="800022" tvg-name="世界地理" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVshijiedili.png" group-title="央视频",CCTV-世界地理
-http://127.0.0.1:8081/ysp-dec.php?id=sjdl
-#EXTINF:-1 tvg-id="800024" tvg-name="兵器科技" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE8.jpg" group-title="央视频",CCTV-兵器科技
-http://127.0.0.1:8081/ysp-dec.php?id=bqkj
-#EXTINF:-1 tvg-id="cctv卫生健康" tvg-name="cctv卫生健康" tvg-logo="" group-title="央视频"cctv卫生健康
-http://127.0.0.1:8081/ysp-dec.php?id=wsjk
-#EXTINF:-1 tvg-id="800020" tvg-name="风云剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTBfengyun.png" group-title="央视频",CCTV-风云剧场
-http://127.0.0.1:8081/ysp-dec.php?id=fyjc
-#EXTINF:-1 tvg-id="800029" tvg-name="央视台球" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVtaiqiu.png" group-title="央视频",CCTV-央视台球
-http://127.0.0.1:8081/ysp-dec.php?id=ystq
-#EXTINF:-1 tvg-id="cctv文化精品" tvg-name="cctv文化精品" tvg-logo="" group-title="央视频",cctv文化精品
-http://127.0.0.1:8081/ysp-dec.php?id=whjp
-#EXTINF:-1 tvg-id="800027" tvg-name="女性时尚" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVnvxing.png" group-title="央视频",CCTV-女性时尚
-http://127.0.0.1:8081/ysp-dec.php?id=nxss
-#EXTINF:-1 tvg-id="800030" tvg-name="电视指南" tvg-logo="" group-title="央视频",CCTV-电视指南
-http://127.0.0.1:8081/ysp-dec.php?id=dszn
-#EXTINF:-1 tvg-id="800023" tvg-name="风云音乐" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVfengyunyinyue.png" group-title="央视频",CCTV-风云音乐
-http://127.0.0.1:8081/ysp-dec.php?id=fyyy
-#EXTINF:-1 tvg-id="800025" tvg-name="风云足球" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVfengyunzuqiu.png" group-title="央视频",CCTV-风云足球
-http://127.0.0.1:8081/ysp-dec.php?id=2fzq
-#EXTINF:-1 tvg-id="800019" tvg-name="第一剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVdiyijuchang.png" group-title="央视频",CCTV-第一剧场
-http://127.0.0.1:8081/ysp-dec.php?id=dyjc
-#EXTINF:-1 tvg-id="800039" tvg-name="江苏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title="央视频",江苏卫视
-http://127.0.0.1:8081/ysp-dec.php?id=jsws
-#EXTINF:-1 tvg-id="800041" tvg-name="浙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="央视频",浙江卫视
-http://127.0.0.1:8081/ysp-dec.php?id=zjws
-#EXTINF:-1 tvg-id="800042" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="央视频",湖南卫视
-http://127.0.0.1:8081/ysp-dec.php?id=hunws
-#EXTINF:-1 tvg-id="800038" tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="央视频",北京卫视
-http://127.0.0.1:8081/ysp-dec.php?id=bjws
-#EXTINF:-1 tvg-id="800040" tvg-name="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="央视频",东方卫视
-http://127.0.0.1:8081/ysp-dec.php?id=dfws
-#EXTINF:-1 tvg-id="800058" tvg-name="山东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shandong.png" group-title="央视频",山东卫视
-http://127.0.0.1:8081/ysp-dec.php?id=sdws
-#EXTINF:-1 tvg-id="800050" tvg-name="四川卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sichuan.png" group-title="央视频",四川卫视
-http://127.0.0.1:8081/ysp-dec.php?id=scws
-#EXTINF:-1 tvg-id="800056" tvg-name="安徽卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/anhui.png" group-title="央视频",安徽卫视
-http://127.0.0.1:8081/ysp-dec.php?id=ahws
-#EXTINF:-1 tvg-id="800054" tvg-name="江西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangxi.png" group-title="央视频",江西卫视
-http://127.0.0.1:8081/ysp-dec.php?id=jxws
-#EXTINF:-1 tvg-id="800052" tvg-name="东南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongnan.png" group-title="央视频",东南卫视
-http://127.0.0.1:8081/ysp-dec.php?id=dnws
-#EXTINF:-1 tvg-id="800057" tvg-name="河北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hebei.png" group-title="央视频",河北卫视
-http://127.0.0.1:8081/ysp-dec.php?id=hbws
-#EXTINF:-1 tvg-id="800051" tvg-name="河南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/henan.png" group-title="央视频",河南卫视
-http://127.0.0.1:8081/ysp-dec.php?id=hnws
-#EXTINF:-1 tvg-id="800048" tvg-name="重庆卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/chongqing.png" group-title="央视频",重庆卫视
-http://127.0.0.1:8081/ysp-dec.php?id=cqws
-#EXTINF:-1 tvg-id="800047" tvg-name="旅游卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/lvyou.png" group-title="央视频",海南卫视
-http://127.0.0.1:8081/ysp-dec.php?id=hinws
-#EXTINF:-1 tvg-id="800049" tvg-name="深圳卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shenzhen.png" group-title="央视频",深圳卫视
-http://127.0.0.1:8081/ysp-dec.php?id=szws
-#EXTINF:-1 tvg-id="800043" tvg-name="湖北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hubei.png" group-title="央视频",湖北卫视
-http://127.0.0.1:8081/ysp-dec.php?id=hubws
-#EXTINF:-1 tvg-id="800053" tvg-name="贵州卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guizhou.png" group-title="央视频",贵州卫视
-http://127.0.0.1:8081/ysp-dec.php?id=gzws
-#EXTINF:-1 tvg-id="800045" tvg-name="广西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangxi.png" group-title="央视频",广西卫视
-http://127.0.0.1:8081/ysp-dec.php?id=gxws
-#EXTINF:-1 tvg-id="800044" tvg-name="广东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png" group-title="央视频",广东卫视
-http://127.0.0.1:8081/ysp-dec.php?id=gdws
-#EXTINF:-1 tvg-id="800055" tvg-name="辽宁卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png" group-title="央视频",辽宁卫视
-http://127.0.0.1:8081/ysp-dec.php?id=lnws
-#EXTINF:-1 tvg-id="800046" tvg-name="黑龙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/heilongjiang.png" group-title="央视频",黑龙江卫视
-http://127.0.0.1:8081/ysp-dec.php?id=hljws
-
-#EXTINF:-1 tvg-id="800059" tvg-name="天津卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/tianjin.png" group-title="央视频",天津卫视
-http://127.0.0.1:8081/ysp-dec.php?id=tjws
-#EXTINF:-1 tvg-id="800060" tvg-name="新疆卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xinjiang.png" group-title="央视频",新疆卫视
-http://127.0.0.1:8081/ysp-dec.php?id=xjws
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼直播",豆瓣电影
 http://127.0.0.1:8081/douyu.php?id=8770422

@@ -9,27 +9,17 @@
 				"url": "./lib/yo22.txt"
 			},
 	                {
-		                "name": "国内频道",
-				 "type": 0,
-	                         "playerType": 1,
-                                 "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36", 
-                                 "url":"https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/msp.m3u"
-	                },
-	                {
 				"name": "印尼",
 				"type": 0,
 				"playerType": 1,
 				"url": "./yinni.m3u"
 			},		
-
-
                        {
                        "name":"台湾",
                        "url":"https://epg.pw/test_channels_taiwan.txt",
                        "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
                        "logo": "https://epg.112114.xyz/logo/{name}.png"
                        },
-
                       {
                       "name":"国内频道直播",
                       "url":"./guoneizhibo.txt",
@@ -182,17 +172,6 @@
 
 	"sites":[
 		{
-			"key": "豆瓣",
-			"name": "豆瓣",
-			"type": 3,
-			"api": "csp_Douban",
-			"searchable": 0,
-			"changeable": 1,
-			"indexs":1,
-			"ext": "./lib/douban.json"
-		},
-
-{
 			"key": "豆瓣",
 			"name": "豆瓣",
 			"type": 3,

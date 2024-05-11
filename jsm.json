@@ -194,7 +194,6 @@
         "api":"https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
        "type":3,
         "style":{ "type":"rect","ratio":1.33 },
-     
        "ext":"https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/ikanbot2.js"
      },
 		{

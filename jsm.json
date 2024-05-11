@@ -1,5 +1,5 @@
 {
-	"spider":"./pg.jar",
+	"spider":".https://raw.githubusercontent.com/zzq12345/CatVodSpider/main/json/pg.jar",
 "lives":[
  {
 				"name": "墙外YouTubeLive",

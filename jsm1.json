@@ -196,6 +196,15 @@
 			"indexs":1,
 			"ext": "./lib/douban.json"
 		},
+		{
+       "key":"drpy_js_爱看机器人",
+       "name":"爱看机器[js]",
+        "api":"https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+       "type":3,
+        "style":{ "type":"rect","ratio":1.33 },
+     
+       "ext":"https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/ikanbot2.js"
+     },
 { "key": "Ikanbot", "name": "爱看机器人", "type": 3, "api": "csp_Ikanbot", "searchable": 1, "quickSearch": 1, "filterable": 1, "changeable": 1 , "ext":"https://v.ikanbot.com$$$proxy"},
 {
 			"key": "haiwaikan",

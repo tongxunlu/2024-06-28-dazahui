@@ -232,7 +232,7 @@
 		},
 		
   {"key":"白嫖影视","name":"🔴白嫖影视","type":3,"api":"csp_BaiPiao","jar":"./3366.jar"},
-{"key":"py_cctv","name":"🔴CCTV","type":3,"api":"./cctv.py"},      
+{"key":"py_cctv","name":"央视主要栏目","type":3,"api":"./cctv.py"},      
 {
         "key": "黑木资源",
         "name": "黑木资源",

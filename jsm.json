@@ -14,7 +14,13 @@
 				"playerType": 1,
 				"url": "./guonei.txt"
 			},	 
-
+{
+				"name": "4gtv代理",
+				"type": 0,
+				"playerType": 1,
+				"url": "./4gtvdl.m3u"
+			},	
+	
 	{
       "name": "myTV SUPER",
        "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.6476.0 Safari/537.36 Edg/124.0.2478.97",

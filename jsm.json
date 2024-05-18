@@ -14,15 +14,20 @@
 				"playerType": 1,
 				"url": "./guonei.txt"
 			},	 
-
-		{
+                        {
+				"name": "histar",
+				"type": 0,
+				"playerType": 1,
+				"url": "./histar.txt"
+			},
+		        {
 				"name": "4gtv",
 				"type": 0,
 				"playerType": 1,
 				"url": "./4g.txt",
-			"epg": "http://diyp1.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://diyp1.112114.xyz/logo/{name}.png"
-    }, 
+		          	"epg": "http://diyp1.112114.xyz/?ch={name}&date={date}",
+                               "logo": "https://diyp1.112114.xyz/logo/{name}.png"
+                          }, 
 			
 	
 	{

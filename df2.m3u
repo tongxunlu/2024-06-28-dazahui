@@ -4688,14 +4688,13 @@ http://192.168.10.250/4gtv1080.php?id=121
 http://192.168.10.250/4gtv1080.php?id=122
 #EXTINF:-1 tvg-id="4gtv-live006" tvg-name="戲劇免費看 2台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live_mobile.png" group-title="4gtv",戲劇免費看 2台
 http://192.168.10.250/4gtv1080.php?id=123
-#EXTINF:-1 tvg-id="4gtv-live013" tvg-name="電影免費看 1台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live013_mobile.png" group-title="4gtv",電影免費看 1台
-http://192.168.10.250/4gtv1080.php?id=124
+
 #EXTINF:-1 tvg-id="4gtv-live005" tvg-name="電影免費看 2台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live005_mobile.png" group-title="4gtv",電影免費看 2台
-http://192.168.10.250/4gtv1080.php?id=125
+http://192.168.10.250/4gtv1080.php?id=124
 #EXTINF:-1 tvg-id="4gtv-live015" tvg-name="超人力霸王整套看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live015_mobile.png" group-title="4gtv",超人力霸王整套看
-http://192.168.10.250/4gtv1080.php?id=126
+http://192.168.10.250/4gtv1080.php?id=125
 #EXTINF:-1 tvg-id="4gtv-live016" tvg-name="花系列 經典劇場" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live016_mobile.png" group-title="4gtv",花系列 經典劇場
-http://192.168.10.250/4gtv1080.php?id=127
+http://192.168.10.250/4gtv1080.php?id=126
 
 
 

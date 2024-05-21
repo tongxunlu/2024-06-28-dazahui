@@ -1,6 +1,6 @@
 鳳凰資訊,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072|127.0.0.1:10071&url=http://www.youtube.com/watch?v=if6yQq_JJyY
 凤凰卫视,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072|127.0.0.1:10071&url=http://www.youtube.com/watch?v=dmDg7NfUoSw
-寰宇新聞, http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072|127.0.0.1:10071&url=https://www.youtube.com/watch?v=B7Zp3d6xXWw
+寰宇财经新聞, http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072|127.0.0.1:10071&url=https://www.youtube.com/watch?v=WTRQiVWK1jY
 鏡新聞, http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072|127.0.0.1:10071&url=https://www.youtube.com/watch?v=5n0y6b0Q25o
 東森Live, http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072|127.0.0.1:10071&url=https://www.youtube.com/watch?v=R2iMq5LKXco
 中天新聞, http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072|127.0.0.1:10071&url=https://www.youtube.com/watch?v=oIgbl7t0S_w

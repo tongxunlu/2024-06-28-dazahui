@@ -53,11 +53,7 @@ https://mytvsuper.livednow.com/C
 #KODIPROP:inputstream.adaptive.license_key=e04facdd91354deee318c674993b74c1:8f97a629de680af93a652c3102b65898
 https://mytvsuper.livednow.com/P
 
-#EXTINF:-1 tvg-id="A" tvg-logo="" group-title="mysupertv",無綫財經 體育 資訊台
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=91db728a2806d0a0bbb9d92e608f5498:6e96ea66f51b2b9c16c5d6c5b3314a86
-https://mytvsuper.livednow.com/A
+
 #EXTINF:-1 tvg-id="CRE" tvg-logo="" group-title="mysupertv",創世電視
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -76,8 +72,23 @@ https://mytvsuper.livednow.com/C18
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8fe3db1a24969694ae3447f26473eb9f:5cce95833568b9e322f17c61387b306f
 https://mytvsuper.livednow.com/TVG
+#EXTINF:-1 tvg-id="CTVE" tvg-logo="" group-title="mysupertv",娛樂新聞台
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6fa0e47750b5e2fb6adf9b9a0ac431a3:a256220e6c2beaa82f4ca5fba4ec1f95
+https://mytvsuper.livednow.com/CTVE
+#EXTINF:-1 tvg-id="CC1" tvg-logo="" group-title="mysupertv",中央電視台綜合頻道 (港澳版)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e50b18fee7cab76b9f2822e2ade8773a:2e2e8602b6d835ccf10ee56a9a7d91a2
+https://mytvsuper.livednow.com/CC1
 
 
+#EXTINF:-1 tvg-id="A" tvg-logo="" group-title="mysupertv",無綫財經 體育 資訊台
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=91db728a2806d0a0bbb9d92e608f5498:6e96ea66f51b2b9c16c5d6c5b3314a86
+https://mytvsuper.livednow.com/A
 
 #EXTINF:-1 tvg-id="CTVC" tvg-logo="" group-title="mysupertv",千禧經典台
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -103,11 +114,7 @@ https://mytvsuper.livednow.com/CDR3
 #KODIPROP:inputstream.adaptive.license_key=acd93a5f665efd4feadb26f5ed48fd96:c6ce58ef9cce30638e0c2e9fc45a6dbd
 https://mytvsuper.livednow.com/TVO
 
-#EXTINF:-1 tvg-id="CTVE" tvg-logo="" group-title="mysupertv",娛樂新聞台
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6fa0e47750b5e2fb6adf9b9a0ac431a3:a256220e6c2beaa82f4ca5fba4ec1f95
-https://mytvsuper.livednow.com/CTVE
+
 
 #EXTINF:-1 tvg-id="CCOC" tvg-logo="" group-title="mysupertv",戲曲台
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -262,11 +269,7 @@ https://mytvsuper.livednow.com/DTV
 #KODIPROP:inputstream.adaptive.license_key=221591babff135a71961d09399d2c922:c80ca4c7b801a76a07179dfb7debb57d
 https://mytvsuper.livednow.com/POPC
 
-#EXTINF:-1 tvg-id="CC1" tvg-logo="" group-title="mysupertv",中央電視台綜合頻道 (港澳版)
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e50b18fee7cab76b9f2822e2ade8773a:2e2e8602b6d835ccf10ee56a9a7d91a2
-https://mytvsuper.livednow.com/CC1
+
 
 #EXTINF:-1 tvg-id="CGD" tvg-logo="" group-title="mysupertv",CGTN (中國環球電視網)記錄頻道
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -328,11 +331,7 @@ https://mytvsuper.livednow.com/CNHK
 #KODIPROP:inputstream.adaptive.license_key=f3ae14e72f585eaf14b18d8d9515d43f:ce0e375c3966263877078aadd815742e
 https://mytvsuper.livednow.com/CARI
 
-#EXTINF:-1 tvg-id="EVT1" tvg-logo="" group-title="mysupertv",myTV SUPER直播足球1台
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e8ca7903e25450d85cb32b3057948522:d5db5c03608f5f6c8a382c6abcb829e4
-https://mytvsuper.livednow.com/EVT1
+
 
 #EXTINF:-1 tvg-id="EVT2" tvg-logo="" group-title="mysupertv",myTV SUPER直播足球2台
 #KODIPROP:inputstream.adaptive.manifest_type=mpd

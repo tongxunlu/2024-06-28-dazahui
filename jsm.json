@@ -224,7 +224,11 @@
 			"changeable": 1,
 			"indexs":1,
 			"ext": "./lib/douban.json"
-		},
+		}, 
+
+				
+{ "key": "Ikanbot", "name": "爱看机器人", "type": 3, "api": "csp_Ikanbot", "searchable": 1, "quickSearch": 1, "filterable": 1, "changeable": 1 , "ext":"https://v.ikanbot.com$$$proxy"},
+
 { "key": "Ikanbot", "name": "爱看机器人", "type": 3, "api": "csp_Ikanbot", "searchable": 1, "quickSearch": 1, "filterable": 1, "changeable": 1 , "ext":"https://v.ikanbot.com$$$proxy"},
 		{
 			"key": "haiwaikan",

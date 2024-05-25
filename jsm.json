@@ -1,7 +1,10 @@
+
 {
 	"spider":"./pg.jar",
 	"sites":[
-		{
+		
+
+{
 			"key": "豆瓣",
 			"name": "豆瓣",
 			"type": 3,
@@ -54,6 +57,9 @@
 				"经典片"
 			]
 		},
+
+  {"key":"白嫖影视","name":"🔴白嫖影视","type":3,"api":"csp_BaiPiao","jar":"./3366.jar"},
+{"key":"py_cctv","name":"央视主要栏目","type":3,"api":"./cctv.py"},      
                                    {
 			"key": "快看",
 			"name": "快看",
@@ -85,9 +91,6 @@
 			"changeable": 0,
 			"ext":"proxy"
 		},
-  {"key":"白嫖影视","name":"🔴白嫖影视","type":3,"api":"csp_BaiPiao","jar":"./3366.jar"},
-{"key":"py_cctv","name":"央视主要栏目","type":3,"api":"./cctv.py"},      
-
 		{
 			"key": "獨播",
 			"name": "獨播 | 海外",
@@ -185,7 +188,47 @@
       ]
     },
 
-
+                                   {
+			"key": "快看",
+			"name": "快看",
+			"type": 3,
+			"api": "csp_Kuaikan",
+			"searchable": 1,
+			"quickSearch": 1,
+			"changeable": 0,
+			"filterable": 1
+		},
+		{ "key": "Ikanbot", "name": "爱看机器人", "type": 3, "api": "csp_Ikanbot", "searchable": 1, "quickSearch": 1, "filterable": 1, "changeable": 1 , "ext":"https://v.aikanbot.com$$$proxy"},
+		{ "key":"csp_YingShi","name":"影视|海外","type":3,"api":"csp_YingShi","ext":"proxy"},
+		{ 
+			"key": "泥巴", 
+			"name": "泥巴 | 海外", 
+			"type": 3, 
+			"api": "csp_NiNi", 
+			"searchable": 1, 
+			"filterable": 1, 
+			"changeable": 0, 
+			"ext":"0$$$proxy" 
+		},
+		{
+			"key": "星星",
+			"name": "星星 | 海外",
+			"type": 3,
+			"api": "csp_Star",
+			"searchable": 1,
+			"changeable": 0,
+			"ext":"proxy"
+		},
+		{
+			"key": "獨播",
+			"name": "獨播 | 海外",
+			"type": 3,
+			"api": "csp_XPathMacFilter",
+			"searchable": 1,
+			"changeable": 0,
+			"ext": "./lib/duboku.json$$$proxy"
+		},
+		
 		{
 			"key": "ikun",
 			"name": "ikun",
@@ -847,7 +890,20 @@
 			"ext": "https://fm.t4tv.hz.cz/json/market.json"
 		}],
 		"lives":[
+{
+      "name": "自用",
+      "url": "./livetest.txt",
+      "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
 
+
+{
+            "name": "央视频",
+            "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+            "type": 0,
+            "url": "./嗅探.m3u"
+},
                                     {
                                                    "name": "myTV SUPER",
                                                  "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.6476.0 Safari/537.36 Edg/124.0.2478.97",
@@ -928,20 +984,7 @@
       "logo": "https://epg.112114.xyz/logo/{name}.png"
 },
 
-    {
-      "name": "自用",
-      "url": "./livetest.txt",
-      "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
-    },
-
-
-{
-            "name": "央视频",
-            "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
-            "type": 0,
-            "url": "./嗅探.m3u"
-},
+    
 
 	{
 "name":"youtubelive",
@@ -1214,19 +1257,14 @@
 			{"name":"FreeOK","type":0,"url":"https://play.86516.tk/OKPlayer/?url="},
 			{"name":"free","type":0,"url":"https://h5.freejson.xyz/player/?url="}
 		],
-
-	  
-	"flags":["youku","qq","iqiyi","qiyi","letv","sohu","tudou","pptv","mgtv","wasu"],
+		"flags":["youku","qq","iqiyi","qiyi","letv","sohu","tudou","pptv","mgtv","wasu"],
 		"wallpaper": "http://饭太硬.top/深色壁纸/api.php",
 		"disabled_wallpaper":"http://www.kf666888.cn/api/tvbox/img",
-	
-	
-  "ads": [
+
+"ads": [
     "static-mozai.4gtv.tv",
-    "s3t3d2y8.afcdn.net"
-  "m3u.haiwaikan.com",  
+    "s3t3d2y8.afcdn.net",
   "4gtvfreepcvod-cds.cdn.hinet.net"
   ]
 }
-	
   

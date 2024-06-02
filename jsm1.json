@@ -13,7 +13,20 @@
 			"indexs":1,
 			"ext": "./lib/douban.json"
 		},
-
+{"key":"py_cctv","name":"央视主要栏目","type":3,"api":"./cctv.py"},      
+                                   {
+			"key": "快看",
+			"name": "快看",
+			"type": 3,
+			"api": "csp_Kuaikan",
+			"searchable": 1,
+			"quickSearch": 1,
+			"changeable": 0,
+			"filterable": 1
+		},
+		{ "key": "Ikanbot", "name": "爱看机器人", "type": 3, "api": "csp_Ikanbot", "searchable": 1, "quickSearch": 1, "filterable": 1, "changeable": 1 , "ext":"https://v.aikanbot.com$$$proxy"},
+		{ "key":"csp_YingShi","name":"影视|海外","type":3,"api":"csp_YingShi","ext":"proxy"},
+		
 {
 			"key": "haiwaikan",
 			"name": "海外看",
@@ -58,51 +71,8 @@
 		},
 
   {"key":"白嫖影视","name":"🔴白嫖影视","type":3,"api":"csp_BaiPiao","jar":"./3366.jar"},
-{"key":"py_cctv","name":"央视主要栏目","type":3,"api":"./cctv.py"},      
-                                   {
-			"key": "快看",
-			"name": "快看",
-			"type": 3,
-			"api": "csp_Kuaikan",
-			"searchable": 1,
-			"quickSearch": 1,
-			"changeable": 0,
-			"filterable": 1
-		},
-		{ "key": "Ikanbot", "name": "爱看机器人", "type": 3, "api": "csp_Ikanbot", "searchable": 1, "quickSearch": 1, "filterable": 1, "changeable": 1 , "ext":"https://v.aikanbot.com$$$proxy"},
-		{ "key":"csp_YingShi","name":"影视|海外","type":3,"api":"csp_YingShi","ext":"proxy"},
-		{ 
-			"key": "泥巴", 
-			"name": "泥巴 | 海外", 
-			"type": 3, 
-			"api": "csp_NiNi", 
-			"searchable": 1, 
-			"filterable": 1, 
-			"changeable": 0, 
-			"ext":"0$$$proxy" 
-		},
-		{
-			"key": "星星",
-			"name": "星星 | 海外",
-			"type": 3,
-			"api": "csp_Star",
-			"searchable": 1,
-			"changeable": 0,
-			"ext":"proxy"
-		},
-		{
-			"key": "獨播",
-			"name": "獨播 | 海外",
-			"type": 3,
-			"api": "csp_XPathMacFilter",
-			"searchable": 1,
-			"changeable": 0,
-			"ext": "./lib/duboku.json$$$proxy"
-		},
-		
 
- {"key":"白嫖影视","name":"🔴白嫖影视","type":3,"api":"csp_BaiPiao","jar":"./3366.jar"},
-{"key":"py_cctv","name":"央视主要栏目","type":3,"api":"./cctv.py"},      
+		{"key":"py_cctv","name":"央视主要栏目","type":3,"api":"./cctv.py"},      
 {
         "key": "黑木资源",
         "name": "黑木资源",
@@ -154,6 +124,37 @@
                 "综艺"
             ]
         },
+		{"key": "泥巴", 
+			"name": "泥巴 | 海外", 
+			"type": 3, 
+			"api": "csp_NiNi", 
+			"searchable": 1, 
+			"filterable": 1, 
+			"changeable": 0, 
+			"ext":"0$$$proxy" 
+		},
+		{
+			"key": "星星",
+			"name": "星星 | 海外",
+			"type": 3,
+			"api": "csp_Star",
+			"searchable": 1,
+			"changeable": 0,
+			"ext":"proxy"
+		},
+		{
+			"key": "獨播",
+			"name": "獨播 | 海外",
+			"type": 3,
+			"api": "csp_XPathMacFilter",
+			"searchable": 1,
+			"changeable": 0,
+			"ext": "./lib/duboku.json$$$proxy"
+		},
+		
+
+ {"key":"白嫖影视","name":"🔴白嫖影视","type":3,"api":"csp_BaiPiao","jar":"./3366.jar"},
+
 {
 		 "key":"云2",
       "name":" ‍🔥梦影（og）",

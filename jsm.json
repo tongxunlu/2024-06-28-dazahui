@@ -312,14 +312,8 @@
 				"海外动漫"
 			]
 		},
-		{
-			"key": "櫻花",
-			"name": "櫻花",
-			"type": 3,
-			"api": "csp_Ying",
-			"searchable": 1,
-			"changeable": 0
-		},
+		
+			
 		{
 			"key": "巴士",
 			"name": "巴士",

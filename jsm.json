@@ -155,14 +155,6 @@
                 "综艺"
             ]
         },
-{
-		 "key":"云2",
-      "name":" ‍🔥梦影（og）",
-      "type":3,
-      "api":"csp_Movie2",
-      "jar":"https://raw.githubusercontent.com/zzq12345/CatVodSpider/main/json/jar.php",
-"ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/ouhaibo1980/tvbox/master/EXT/Movie5"
-    },
        {
       "key": "百度",
       "name": "百度",

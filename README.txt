@@ -1,4 +1,6 @@
-
+强烈推荐建议使用这个版本2.3.4，不要升级。
+下载地址为:
+https://raw.githubusercontent.com/FongMi/Release/d4d05b9c2bfdb2ac15faa3012109d1a247854aca/apk/kitkat/leanback.apk
 
 感谢中国联通，中国移动提供上github服务，所有资料来源于互联网。
 联通移动可以看

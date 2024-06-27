@@ -5522,7 +5522,7 @@ http://127.0.0.1:8081/shanghai.php?id=dspd
 http://127.0.0.1:8081/shanghai.php?id=dycj
 #EXTINF:-1 tvg-id="800106" tvg-name="上海纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanghaijishi.png" group-title="地方",上海纪实人文
 http://127.0.0.1:8081/shanghai.php?id=jsrw
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",上海外语频道
+#EXTINF:-1 tvg-id="外语频道" tvg-name="外语频道" tvg-logo="" group-title="地方",外语频道
 http://127.0.0.1:8081/shanghai.php?id=shics
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",清华大学
